@@ -1,0 +1,53 @@
+{
+  "outputDir": "feeds",
+  "feeds": [
+    {
+      "slug": "kultura",
+      "title": "PAP.pl - Kultura",
+      "url": "https://www.pap.pl/kultura",
+      "description": "Najnowsze artykuly z dzialu Kultura w serwisie PAP.pl"
+    },
+    {
+      "slug": "sport",
+      "title": "PAP.pl - Sport",
+      "url": "https://www.pap.pl/sport",
+      "description": "Najnowsze artykuly z dzialu Sport w serwisie PAP.pl"
+    },
+    {
+      "slug": "nauka",
+      "title": "PAP.pl - Nauka",
+      "url": "https://www.pap.pl/nauka",
+      "description": "Najnowsze artykuly z dzialu Nauka w serwisie PAP.pl"
+    },
+    {
+      "slug": "studio-pap",
+      "title": "PAP.pl - Studio PAP",
+      "url": "https://www.pap.pl/studio-pap",
+      "description": "Najnowsze artykuly z dzialu Studio PAP w serwisie PAP.pl"
+    },
+    {
+      "slug": "fact-checking",
+      "title": "PAP.pl - Fact-checking",
+      "url": "https://www.pap.pl/fact-checking",
+      "description": "Najnowsze artykuly z dzialu Fact-checking w serwisie PAP.pl"
+    },
+    {
+      "slug": "gospodarka",
+      "title": "PAP.pl - Gospodarka",
+      "url": "https://www.pap.pl/gospodarka",
+      "description": "Najnowsze artykuly z dzialu Gospodarka w serwisie PAP.pl"
+    },
+    {
+      "slug": "kraj",
+      "title": "PAP.pl - Kraj",
+      "url": "https://www.pap.pl/kraj",
+      "description": "Najnowsze artykuly z dzialu Kraj w serwisie PAP.pl"
+    },
+    {
+      "slug": "swiat",
+      "title": "PAP.pl - Swiat",
+      "url": "https://www.pap.pl/swiat",
+      "description": "Najnowsze artykuly z dzialu Swiat w serwisie PAP.pl"
+    }
+  ]
+}

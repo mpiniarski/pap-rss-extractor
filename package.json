@@ -1,0 +1,18 @@
+{
+  "name": "pap-rss-extractor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "rss": "tsx src/pap-rss.ts",
+    "rss:separate": "tsx src/pap-rss.ts --separate",
+    "refresh": "tsx src/refresh.ts",
+    "refresh:watch": "tsx src/refresh.ts --watch",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3"
+  }
+}
