@@ -961,8 +961,8 @@ function buildMergedRssFromResults(results: FeedResult[]): string {
 
   return buildRss(
     {
-      slug: "merged",
-      title: "PAP.pl - Wszystkie skonfigurowane dzialy",
+      slug: "pap.pl",
+      title: "PAP.pl",
       url: "https://www.pap.pl/",
       description: "Polaczony feed RSS ze wszystkich skonfigurowanych dzialow PAP.pl"
     },
