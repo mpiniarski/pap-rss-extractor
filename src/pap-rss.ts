@@ -19,6 +19,8 @@ type Article = {
   title: string;
   link: string;
   description?: string;
+  imageUrl?: string;
+  author?: string;
   pubDate?: string;
   source?: ArticleSource;
 };
@@ -447,6 +449,8 @@ function collectJsonLdArticles(value: JsonValue, sourceUrl: string, articles: Ar
     title: normalizeWhitespace(title),
     link: absoluteLink,
     description: getString(value.description),
+    imageUrl: extractJsonLdImage(value, sourceUrl),
+    author: extractJsonLdAuthor(value),
     pubDate: getString(value.datePublished) ?? getString(value.dateModified)
   });
 }
@@ -477,7 +481,13 @@ function extractLinkedArticles(html: string, sourceUrl: string): Article[] {
       continue;
     }
 
-    articles.push({ title, link, description: extractNearbyDescription(html, match.index + match[0].length) });
+    const nearbyHtml = html.slice(match.index, match.index + match[0].length + 1200);
+    articles.push({
+      title,
+      link,
+      description: extractNearbyDescription(nearbyHtml),
+      imageUrl: extractImageFromHtml(nearbyHtml, sourceUrl)
+    });
   }
 
   return articles;
@@ -504,12 +514,15 @@ function extractNewsListArticles(html: string, sourceUrl: string): Article[] {
     }
 
     const descriptionHtml = itemHtml.match(/<p\b[^>]*class=(["'])[^"']*\bfield--name-field-lead\b[^"']*\1[^>]*>([\s\S]*?)<\/p>/i)?.[2];
+    const authorHtml = itemHtml.match(/<(?:p|div|span)\b[^>]*class=(["'])[^"']*\bfield--name-field-author\b[^"']*\1[^>]*>([\s\S]*?)<\/(?:p|div|span)>/i)?.[2];
     const pubDate = itemHtml.match(/<time\b[^>]*datetime=(["'])(.*?)\1/i)?.[2];
 
     articles.push({
       title,
       link,
       description: descriptionHtml ? normalizeWhitespace(stripTags(descriptionHtml)) : undefined,
+      imageUrl: extractImageFromHtml(itemHtml, sourceUrl),
+      author: authorHtml ? normalizeWhitespace(stripTags(authorHtml)) : undefined,
       pubDate
     });
   }
@@ -567,28 +580,175 @@ function isLikelyArticleTitle(title: string): boolean {
   return !rejectedTitles.includes(title.toLowerCase());
 }
 
-function extractNearbyDescription(html: string, startIndex: number): string | undefined {
-  const nearbyHtml = html.slice(startIndex, startIndex + 1200);
-  const paragraph = nearbyHtml.match(/<p\b[^>]*>([\s\S]*?)<\/p>/i)?.[1];
+function extractNearbyDescription(html: string): string | undefined {
+  const paragraph = html.match(/<p\b[^>]*>([\s\S]*?)<\/p>/i)?.[1];
   const description = paragraph ? normalizeWhitespace(stripTags(paragraph)) : undefined;
   return description && description.length > 20 ? description : undefined;
 }
 
-function dedupeArticles(articles: Article[]): Article[] {
-  const seen = new Set<string>();
-  const unique: Article[] = [];
+function extractJsonLdImage(value: { [key: string]: JsonValue }, sourceUrl: string): string | undefined {
+  const imageValue = value.image ?? value.thumbnailUrl;
+  if (!imageValue) {
+    return undefined;
+  }
 
-  for (const article of articles) {
-    const key = article.link;
-    if (seen.has(key)) {
+  if (typeof imageValue === "string") {
+    return absoluteUrl(imageValue, sourceUrl);
+  }
+
+  if (Array.isArray(imageValue)) {
+    for (const item of imageValue) {
+      const imageUrl = extractJsonLdImage({ image: item }, sourceUrl);
+      if (imageUrl) {
+        return imageUrl;
+      }
+    }
+
+    return undefined;
+  }
+
+  if (!isJsonObject(imageValue)) {
+    return undefined;
+  }
+
+  const directUrl = getString(imageValue.url) ?? getString(imageValue.contentUrl);
+  return directUrl ? absoluteUrl(directUrl, sourceUrl) : undefined;
+}
+
+function extractJsonLdAuthor(value: { [key: string]: JsonValue }): string | undefined {
+  const authorValue = value.author;
+  if (!authorValue) {
+    return undefined;
+  }
+
+  if (typeof authorValue === "string") {
+    return normalizeWhitespace(authorValue);
+  }
+
+  if (Array.isArray(authorValue)) {
+    const names = authorValue
+      .map((item) => (typeof item === "string" ? item : isJsonObject(item) ? getString(item.name) : undefined))
+      .filter((name): name is string => Boolean(name));
+    return names.length > 0 ? names.join(", ") : undefined;
+  }
+
+  if (!isJsonObject(authorValue)) {
+    return undefined;
+  }
+
+  return getString(authorValue.name);
+}
+
+function extractImageFromHtml(html: string, sourceUrl: string): string | undefined {
+  const pictureSource = html.match(/<source\b[^>]*\bsrcset=(["'])(.*?)\1/i)?.[2];
+  if (pictureSource) {
+    const firstCandidate = pictureSource.split(",")[0]?.trim().split(/\s+/)[0];
+    if (firstCandidate) {
+      const imageUrl = absoluteUrl(firstCandidate, sourceUrl);
+      if (imageUrl && isLikelyArticleImageUrl(imageUrl)) {
+        return imageUrl;
+      }
+    }
+  }
+
+  for (const match of html.matchAll(/<img\b[^>]*>/gi)) {
+    const tag = match[0];
+    const rawSrc =
+      tag.match(/\bsrc=(["'])(.*?)\1/i)?.[2] ??
+      tag.match(/\bdata-src=(["'])(.*?)\1/i)?.[2] ??
+      tag.match(/\bdata-original=(["'])(.*?)\1/i)?.[2];
+    if (!rawSrc) {
       continue;
     }
 
-    seen.add(key);
-    unique.push(article);
+    const imageUrl = absoluteUrl(rawSrc, sourceUrl);
+    if (imageUrl && isLikelyArticleImageUrl(imageUrl)) {
+      return imageUrl;
+    }
   }
 
-  return unique;
+  return undefined;
+}
+
+function isLikelyArticleImageUrl(imageUrl: string): boolean {
+  try {
+    const url = new URL(imageUrl);
+    if (url.protocol !== "http:" && url.protocol !== "https:") {
+      return false;
+    }
+
+    return !/\.(?:svg|gif)(?:$|[?#])/i.test(url.pathname);
+  } catch {
+    return false;
+  }
+}
+
+function pickRicherText(left?: string, right?: string): string | undefined {
+  if (!left) {
+    return right;
+  }
+
+  if (!right) {
+    return left;
+  }
+
+  return right.length > left.length ? right : left;
+}
+
+function mergeArticles(left: Article, right: Article): Article {
+  return {
+    title: pickRicherText(left.title, right.title) ?? left.title,
+    link: left.link,
+    description: pickRicherText(left.description, right.description),
+    imageUrl: left.imageUrl ?? right.imageUrl,
+    author: left.author ?? right.author,
+    pubDate: left.pubDate ?? right.pubDate,
+    source: left.source ?? right.source
+  };
+}
+
+function dedupeArticles(articles: Article[]): Article[] {
+  const byLink = new Map<string, Article>();
+
+  for (const article of articles) {
+    const existing = byLink.get(article.link);
+    byLink.set(article.link, existing ? mergeArticles(existing, article) : article);
+  }
+
+  return [...byLink.values()];
+}
+
+function guessImageMimeType(imageUrl: string): string {
+  const pathname = new URL(imageUrl).pathname.toLowerCase();
+  if (pathname.endsWith(".png")) {
+    return "image/png";
+  }
+
+  if (pathname.endsWith(".webp")) {
+    return "image/webp";
+  }
+
+  if (pathname.endsWith(".gif")) {
+    return "image/gif";
+  }
+
+  return "image/jpeg";
+}
+
+function buildItemContent(article: Article): string | undefined {
+  const parts: string[] = [];
+
+  if (article.imageUrl) {
+    parts.push(
+      `<p><img src="${escapeXml(article.imageUrl)}" alt="${escapeXml(article.title)}" loading="lazy"/></p>`
+    );
+  }
+
+  if (article.description) {
+    parts.push(`<p>${escapeXml(article.description)}</p>`);
+  }
+
+  return parts.length > 0 ? parts.join("\n") : undefined;
 }
 
 function buildRss(feed: FeedDefinition, articles: Article[]): string {
@@ -596,6 +756,7 @@ function buildRss(feed: FeedDefinition, articles: Article[]): string {
   const items = articles
     .map((article) => {
       const pubDate = article.pubDate ? new Date(article.pubDate).toUTCString() : undefined;
+      const content = buildItemContent(article);
 
       return [
         "    <item>",
@@ -603,6 +764,17 @@ function buildRss(feed: FeedDefinition, articles: Article[]): string {
         `      <link>${escapeXml(article.link)}</link>`,
         `      <guid isPermaLink="true">${escapeXml(article.link)}</guid>`,
         article.description ? `      <description>${escapeXml(article.description)}</description>` : undefined,
+        content ? `      <content:encoded><![CDATA[${content}]]></content:encoded>` : undefined,
+        article.imageUrl
+          ? `      <enclosure url="${escapeXml(article.imageUrl)}" type="${guessImageMimeType(article.imageUrl)}" length="0"/>`
+          : undefined,
+        article.imageUrl
+          ? `      <media:content url="${escapeXml(article.imageUrl)}" medium="image" type="${guessImageMimeType(article.imageUrl)}"/>`
+          : undefined,
+        article.imageUrl
+          ? `      <media:thumbnail url="${escapeXml(article.imageUrl)}"/>`
+          : undefined,
+        article.author ? `      <author>${escapeXml(article.author)}</author>` : undefined,
         article.source
           ? `      <source url="${escapeXml(article.source.url)}">${escapeXml(article.source.title)}</source>`
           : undefined,
@@ -615,7 +787,7 @@ function buildRss(feed: FeedDefinition, articles: Article[]): string {
     .join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>${escapeXml(feed.title)}</title>
     <link>${escapeXml(feed.url)}</link>
