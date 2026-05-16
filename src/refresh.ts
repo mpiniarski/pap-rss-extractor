@@ -6,7 +6,7 @@ import {
   writeMergedFeed
 } from "./pap-rss.js";
 
-const REFRESH_INTERVAL_MS = 60 * 60 * 1000;
+const REFRESH_INTERVAL_MS = 6 * 60 * 60 * 1000;
 
 function parseArgs(args: string[]): { configPath: string; watch: boolean } {
   const options = {
@@ -53,7 +53,7 @@ async function main(): Promise<void> {
     return;
   }
 
-  process.stderr.write("Odswiezanie co 1 godzine.\n");
+  process.stderr.write("Odswiezanie co 6 godzin.\n");
   setInterval(() => {
     refreshOnce(options.configPath).catch((error: unknown) => {
       const message = error instanceof Error ? error.message : String(error);

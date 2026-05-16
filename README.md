@@ -31,7 +31,7 @@ The default endpoint is `https://production-sfo.browserless.io/content`. Overrid
 
 ## GitHub Actions
 
-The scheduled workflow in `.github/workflows/refresh-rss.yml` runs hourly and on demand. It:
+The scheduled workflow in `.github/workflows/refresh-rss.yml` runs every 6 hours and on demand. It:
 
 1. Fetches each configured page separately.
 2. Writes per-feed XML files under `feeds/batches/{timestamp}/separate/`.
