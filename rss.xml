@@ -5,7 +5,7 @@
     <link>https://www.pap.pl/</link>
     <description>Polaczony feed RSS ze wszystkich skonfigurowanych dzialow PAP.pl</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:57:19 GMT</lastBuildDate>
     <item>
       <title>Artysta-żołnierz z Ukrainy: na wojnie rysowałem na pudełkach po amunicji [WIDEO]</title>
       <link>https://www.pap.pl/aktualnosci/artysta-zolnierz-z-ukrainy-na-wojnie-rysowalem-na-pudelkach-po-amunicji-wideo</link>
@@ -40,6 +40,17 @@
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/dymecki%20d.png.webp?itok=ORphElt6"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
       <pubDate>Sat, 10 Oct 2026 06:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antykwariusz: za każdym księgozbiorem kryje się historia rodziny jego właściciela</title>
+      <link>https://www.pap.pl/aktualnosci/antykwariusz-za-kazdym-ksiegozbiorem-kryje-sie-historia-rodziny-jego-wlasciciela</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/antykwariusz-za-kazdym-ksiegozbiorem-kryje-sie-historia-rodziny-jego-wlasciciela</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20160619_076.jpg.webp?itok=fmA0fqDI" alt="Antykwariusz: za każdym księgozbiorem kryje się historia rodziny jego właściciela" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20160619_076.jpg.webp?itok=fmA0fqDI" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20160619_076.jpg.webp?itok=fmA0fqDI" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20160619_076.jpg.webp?itok=fmA0fqDI"/>
+      <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
+      <pubDate>Sat, 10 Oct 2026 04:44:32 GMT</pubDate>
     </item>
     <item>
       <title>W kinach: „Primetime”. Pattinson w roli tropiącego pedofilów prowadzącego „To Catch a Predator”</title>
@@ -108,61 +119,59 @@
       <pubDate>Fri, 09 Oct 2026 04:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>Grzegorz Kozak o Aleksandrze Bardinim: miał w dowodzie osobistym napisany zawód „profesor” [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/grzegorz-kozak-o-aleksandrze-bardinim-mial-w-dowodzie-osobistym-napisany-zawod-0</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/grzegorz-kozak-o-aleksandrze-bardinim-mial-w-dowodzie-osobistym-napisany-zawod-0</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-9211580d-470a-4f76-8b28-703b4f2e0136-0.jpg.webp?itok=b04nUiiw" alt="Grzegorz Kozak o Aleksandrze Bardinim: miał w dowodzie osobistym napisany zawód „profesor” [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-9211580d-470a-4f76-8b28-703b4f2e0136-0.jpg.webp?itok=b04nUiiw" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-9211580d-470a-4f76-8b28-703b4f2e0136-0.jpg.webp?itok=b04nUiiw" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-9211580d-470a-4f76-8b28-703b4f2e0136-0.jpg.webp?itok=b04nUiiw"/>
+      <title>Dobrzyński: sprawę informacji o możliwym zamachu na premiera i szefa MON traktujemy śmiertelnie poważnie</title>
+      <link>https://www.pap.pl/aktualnosci/dobrzynski-sprawe-informacji-o-mozliwym-zamachu-na-premiera-i-szefa-mon-traktujemy</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/dobrzynski-sprawe-informacji-o-mozliwym-zamachu-na-premiera-i-szefa-mon-traktujemy</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11126.jpg.webp?itok=c6SaTc7Z" alt="Dobrzyński: sprawę informacji o możliwym zamachu na premiera i szefa MON traktujemy śmiertelnie poważnie" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11126.jpg.webp?itok=c6SaTc7Z" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11126.jpg.webp?itok=c6SaTc7Z" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11126.jpg.webp?itok=c6SaTc7Z"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Thu, 08 Oct 2026 18:43:38 GMT</pubDate>
+      <pubDate>Sun, 11 Oct 2026 11:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>Kolejny incydent z użyciem noża. 21-latka zaatakowała 3 osoby w szkole w Warszawie</title>
-      <link>https://www.pap.pl/aktualnosci/kolejny-incydent-z-uzyciem-noza-21-latka-zaatakowala-3-osoby-w-szkole-w-warszawie</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/kolejny-incydent-z-uzyciem-noza-21-latka-zaatakowala-3-osoby-w-szkole-w-warszawie</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10145%20%281%29.jpg.webp?itok=pI1HrGlo" alt="Kolejny incydent z użyciem noża. 21-latka zaatakowała 3 osoby w szkole w Warszawie" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10145%20%281%29.jpg.webp?itok=pI1HrGlo" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10145%20%281%29.jpg.webp?itok=pI1HrGlo" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10145%20%281%29.jpg.webp?itok=pI1HrGlo"/>
+      <title>Premier o ostatnich aktach przemocy w szkołach: nie mamy do czynienia ze zorganizowaną grupą</title>
+      <link>https://www.pap.pl/aktualnosci/premier-o-ostatnich-aktach-przemocy-w-szkolach-nie-mamy-do-czynienia-ze-zorganizowana</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/premier-o-ostatnich-aktach-przemocy-w-szkolach-nie-mamy-do-czynienia-ze-zorganizowana</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10195.jpg.webp?itok=jtcZDkeh" alt="Premier o ostatnich aktach przemocy w szkołach: nie mamy do czynienia ze zorganizowaną grupą" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10195.jpg.webp?itok=jtcZDkeh" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10195.jpg.webp?itok=jtcZDkeh" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10195.jpg.webp?itok=jtcZDkeh"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Sat, 10 Oct 2026 12:43:39 GMT</pubDate>
+      <pubDate>Sun, 11 Oct 2026 06:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>59-latka uszkodziła dwie stacje paliw. Została zatrzymana po policyjnym pościgu [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/59-latka-uszkodzila-dwie-stacje-paliw-zostala-zatrzymana-po-policyjnym-poscigu-wideo</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/59-latka-uszkodzila-dwie-stacje-paliw-zostala-zatrzymana-po-policyjnym-poscigu-wideo</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10123.jpg.webp?itok=c4pIO26L" alt="59-latka uszkodziła dwie stacje paliw. Została zatrzymana po policyjnym pościgu [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10123.jpg.webp?itok=c4pIO26L" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10123.jpg.webp?itok=c4pIO26L" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a10123.jpg.webp?itok=c4pIO26L"/>
+      <title>Papież: wykryto u mnie guzek, poddam się operacji w najbliższych dniach</title>
+      <link>https://www.pap.pl/aktualnosci/papiez-wykryto-u-mnie-guzek-poddam-sie-operacji-w-najblizszych-dniach</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/papiez-wykryto-u-mnie-guzek-poddam-sie-operacji-w-najblizszych-dniach</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/843091225_29065476203060139_4807961351832070667_n.jpg.webp?itok=MsAqvTrj" alt="Papież: wykryto u mnie guzek, poddam się operacji w najbliższych dniach" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/843091225_29065476203060139_4807961351832070667_n.jpg.webp?itok=MsAqvTrj" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/843091225_29065476203060139_4807961351832070667_n.jpg.webp?itok=MsAqvTrj" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/843091225_29065476203060139_4807961351832070667_n.jpg.webp?itok=MsAqvTrj"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Sat, 10 Oct 2026 12:55:52 GMT</pubDate>
+      <pubDate>Sun, 11 Oct 2026 10:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>RCB odwołało alert dla woj. lubelskiego i podkarpackiego. Brak zagrożenia na terenie Polski</title>
-      <link>https://www.pap.pl/aktualnosci/rcb-odwolalo-alert-dla-woj-lubelskiego-i-podkarpackiego-brak-zagrozenia-na-terenie-0</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/rcb-odwolalo-alert-dla-woj-lubelskiego-i-podkarpackiego-brak-zagrozenia-na-terenie-0</guid>
-      <description>Rządowe Centrum Bezpieczeństwa odwołało alert dla odbiorców na terenie woj. lubelskiego i podkarpackiego w związku z zakończeniem rosyjskiego ataku powietrznego na Ukrainę. Nie zaobserwowano naruszenia polskiej przestrzeni powietrznej — zapewniło Dowództwo Operacyjne Rodzajów Sił Zbrojnych.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb" alt="RCB odwołało alert dla woj. lubelskiego i podkarpackiego. Brak zagrożenia na terenie Polski" loading="lazy"/></p>
-<p>Rządowe Centrum Bezpieczeństwa odwołało alert dla odbiorców na terenie woj. lubelskiego i podkarpackiego w związku z zakończeniem rosyjskiego ataku powietrznego na Ukrainę. Nie zaobserwowano naruszenia polskiej przestrzeni powietrznej — zapewniło Dowództwo Operacyjne Rodzajów Sił Zbrojnych.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb"/>
-      <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Sat, 10 Oct 2026 16:42:27 GMT</pubDate>
+      <title>Hurkacz awansował do 1/8 finału turnieju ATP w Szanghaju [GALERIA]</title>
+      <link>https://www.pap.pl/aktualnosci/hurkacz-awansowal-do-18-finalu-turnieju-atp-w-szanghaju</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/hurkacz-awansowal-do-18-finalu-turnieju-atp-w-szanghaju</guid>
+      <description>Hubert Hurkacz awansował do 1/8 finału turnieju ATP Masters 1000 na twardych kortach w Szanghaju. W niedzielę polski tenisista pokonał Chińczyka Yi Zhou 6:2, 3:6, 6:3.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/epa13295811.jpg.webp?itok=N94URwfN" alt="Hurkacz awansował do 1/8 finału turnieju ATP w Szanghaju [GALERIA]" loading="lazy"/></p>
+<p>Hubert Hurkacz awansował do 1/8 finału turnieju ATP Masters 1000 na twardych kortach w Szanghaju. W niedzielę polski tenisista pokonał Chińczyka Yi Zhou 6:2, 3:6, 6:3.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/epa13295811.jpg.webp?itok=N94URwfN" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/epa13295811.jpg.webp?itok=N94URwfN" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/epa13295811.jpg.webp?itok=N94URwfN"/>
+      <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
+      <pubDate>Sun, 11 Oct 2026 09:32:18 GMT</pubDate>
     </item>
     <item>
       <title>Żużlowe ME par – złoty medal dla Polski [GALERIA]</title>
       <link>https://www.pap.pl/aktualnosci/zuzlowe-me-par-zloty-medal-dla-polski-galeria</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/zuzlowe-me-par-zloty-medal-dla-polski-galeria</guid>
-      <description>Polscy żużlowcy po raz 10. wygrali finałowy turniej mistrzostw Europy par. W sobotnich zawodach w Grudziądzu drugie miejsce zajęła Łotwa, a trzecie Czechy.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261010_2BU.jpg.webp?itok=tG0kpEad" alt="Żużlowe ME par – złoty medal dla Polski [GALERIA]" loading="lazy"/></p>
-<p>Polscy żużlowcy po raz 10. wygrali finałowy turniej mistrzostw Europy par. W sobotnich zawodach w Grudziądzu drugie miejsce zajęła Łotwa, a trzecie Czechy.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261010_2BU.jpg.webp?itok=tG0kpEad" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261010_2BU.jpg.webp?itok=tG0kpEad" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261010_2BU.jpg.webp?itok=tG0kpEad"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_2BU.jpg.webp?itok=vxqd2yyp" alt="Żużlowe ME par – złoty medal dla Polski [GALERIA]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_2BU.jpg.webp?itok=vxqd2yyp" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_2BU.jpg.webp?itok=vxqd2yyp" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_2BU.jpg.webp?itok=vxqd2yyp"/>
       <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
       <pubDate>Sat, 10 Oct 2026 19:08:36 GMT</pubDate>
     </item>
@@ -253,17 +262,6 @@
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/epa13286315.jpg.webp?itok=PTtkP4HR"/>
       <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
       <pubDate>Wed, 07 Oct 2026 13:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nie żyje Jacek Ziober, były piłkarz reprezentacji Polski</title>
-      <link>https://www.pap.pl/aktualnosci/nie-zyje-jacek-ziober-byly-pilkarz-reprezentacji-polski</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/nie-zyje-jacek-ziober-byly-pilkarz-reprezentacji-polski</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20060525_15O.jpg.webp?itok=e5OY7GKK" alt="Nie żyje Jacek Ziober, były piłkarz reprezentacji Polski" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20060525_15O.jpg.webp?itok=e5OY7GKK" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20060525_15O.jpg.webp?itok=e5OY7GKK" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20060525_15O.jpg.webp?itok=e5OY7GKK"/>
-      <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
-      <pubDate>Tue, 06 Oct 2026 06:47:18 GMT</pubDate>
     </item>
     <item>
       <title>Ekspert: „robaki” w grzybie nie świadczą o tym, że jest jadalny</title>
@@ -602,15 +600,26 @@
       <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Departament Stanu USA zapowiedział dyskusje w G20 nad stałym członkostwem Polski</title>
+      <link>https://www.pap.pl/aktualnosci/departament-stanu-usa-zapowiedzial-dyskusje-w-g20-nad-stalym-czlonkostwem-polski</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/departament-stanu-usa-zapowiedzial-dyskusje-w-g20-nad-stalym-czlonkostwem-polski</guid>
+      <description>Departament Stanu USA przekazał PAP, że amerykańska prezydencja w G20 będzie prowadziła dyskusje na forum organizacji, by uczynić Polskę stałym członkiem grupy „tak szybko jak to możliwe”. M.in. tej kwestii poświęcona ma być wideokonferencja tak zwanych szerpów państw członkowskich, czyli ich przedstawicieli biorących udział w negocjacjach.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image712283.jpg.webp?itok=T-0jXgdn" alt="Departament Stanu USA zapowiedział dyskusje w G20 nad stałym członkostwem Polski" loading="lazy"/></p>
+<p>Departament Stanu USA przekazał PAP, że amerykańska prezydencja w G20 będzie prowadziła dyskusje na forum organizacji, by uczynić Polskę stałym członkiem grupy „tak szybko jak to możliwe”. M.in. tej kwestii poświęcona ma być wideokonferencja tak zwanych szerpów państw członkowskich, czyli ich przedstawicieli biorących udział w negocjacjach.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image712283.jpg.webp?itok=T-0jXgdn" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image712283.jpg.webp?itok=T-0jXgdn" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image712283.jpg.webp?itok=T-0jXgdn"/>
+      <source url="https://www.pap.pl/gospodarka">PAP.pl - Gospodarka</source>
+      <pubDate>Sun, 11 Oct 2026 07:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Niemczycki: Polska utrzymuje największą alokację w przyszłym budżecie UE</title>
       <link>https://www.pap.pl/aktualnosci/niemczycki-polska-utrzymuje-najwieksza-alokacje-w-przyszlym-budzecie-ue</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/niemczycki-polska-utrzymuje-najwieksza-alokacje-w-przyszlym-budzecie-ue</guid>
-      <description>Polska niezmiennie utrzymuje największą alokację w unijnym budżecie na lata 2028–2034 - napisał w sobotę na X wiceminister spraw zagranicznych Ignacy Niemczycki, komentując propozycję budżetową irlandzkiej prezydencji. Dodał jednak, że zmniejszenie całego budżetu nie odpowiada ambicjom Unii Europejskiej.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20250624_0D6.jpg.webp?itok=4veSCipn" alt="Niemczycki: Polska utrzymuje największą alokację w przyszłym budżecie UE" loading="lazy"/></p>
-<p>Polska niezmiennie utrzymuje największą alokację w unijnym budżecie na lata 2028–2034 - napisał w sobotę na X wiceminister spraw zagranicznych Ignacy Niemczycki, komentując propozycję budżetową irlandzkiej prezydencji. Dodał jednak, że zmniejszenie całego budżetu nie odpowiada ambicjom Unii Europejskiej.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20250624_0D6.jpg.webp?itok=4veSCipn" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20250624_0D6.jpg.webp?itok=4veSCipn" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20250624_0D6.jpg.webp?itok=4veSCipn"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250624_0D6.jpg.webp?itok=FREJmmoG" alt="Niemczycki: Polska utrzymuje największą alokację w przyszłym budżecie UE" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250624_0D6.jpg.webp?itok=FREJmmoG" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250624_0D6.jpg.webp?itok=FREJmmoG" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250624_0D6.jpg.webp?itok=FREJmmoG"/>
       <source url="https://www.pap.pl/gospodarka">PAP.pl - Gospodarka</source>
       <pubDate>Sat, 10 Oct 2026 11:30:19 GMT</pubDate>
     </item>
@@ -703,15 +712,83 @@
       <pubDate>Wed, 07 Oct 2026 14:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>Potężny pakiet sankcji wobec Rosji. Na liście ponad 1,6 tys. osób i podmiotów</title>
-      <link>https://www.pap.pl/aktualnosci/potezny-pakiet-sankcji-wobec-rosji-na-liscie-ponad-16-tys-osob-i-podmiotow</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/potezny-pakiet-sankcji-wobec-rosji-na-liscie-ponad-16-tys-osob-i-podmiotow</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image712495.png.webp?itok=py28oMes" alt="Potężny pakiet sankcji wobec Rosji. Na liście ponad 1,6 tys. osób i podmiotów" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image712495.png.webp?itok=py28oMes" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image712495.png.webp?itok=py28oMes" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image712495.png.webp?itok=py28oMes"/>
-      <source url="https://www.pap.pl/gospodarka">PAP.pl - Gospodarka</source>
-      <pubDate>Wed, 07 Oct 2026 13:24:00 GMT</pubDate>
+      <title>Tragiczny wypadek w Wielkopolsce. Jedna kobieta zginęła, druga ciężko ranna</title>
+      <link>https://www.pap.pl/aktualnosci/wielkopolskie-potracenie-rowerzystek-w-pow-grodziskim-jedna-kobieta-zginela-druga-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/wielkopolskie-potracenie-rowerzystek-w-pow-grodziskim-jedna-kobieta-zginela-druga-0</guid>
+      <description>Jedna osoba zginęła, a druga w stanie ciężkim trafiła do szpitala, po tym, jak w niedzielny poranek 20-letni kierowca w miejscowości Ziemin (pow. grodziski, woj. wielkopolskie) potrącił dwie prawidłowo jadące poboczem rowerzystki.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260423_1SW%20%281%29.jpg.webp?itok=a_9PJ84y" alt="Tragiczny wypadek w Wielkopolsce. Jedna kobieta zginęła, druga ciężko ranna" loading="lazy"/></p>
+<p>Jedna osoba zginęła, a druga w stanie ciężkim trafiła do szpitala, po tym, jak w niedzielny poranek 20-letni kierowca w miejscowości Ziemin (pow. grodziski, woj. wielkopolskie) potrącił dwie prawidłowo jadące poboczem rowerzystki.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260423_1SW%20%281%29.jpg.webp?itok=a_9PJ84y" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260423_1SW%20%281%29.jpg.webp?itok=a_9PJ84y" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260423_1SW%20%281%29.jpg.webp?itok=a_9PJ84y"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sun, 11 Oct 2026 11:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kard. Grzegorz Ryś w orędziu na Dzień Papieski: siła nauczania Jana Pawła II brała się z postawy ucznia</title>
+      <link>https://www.pap.pl/aktualnosci/kard-grzegorz-rys-w-oredziu-na-dzien-papieski-sila-nauczania-jana-pawla-ii-brala-sie-z</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/kard-grzegorz-rys-w-oredziu-na-dzien-papieski-sila-nauczania-jana-pawla-ii-brala-sie-z</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241218_0G0.jpg.webp?itok=oLLVj-ee" alt="Kard. Grzegorz Ryś w orędziu na Dzień Papieski: siła nauczania Jana Pawła II brała się z postawy ucznia" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241218_0G0.jpg.webp?itok=oLLVj-ee" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241218_0G0.jpg.webp?itok=oLLVj-ee" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241218_0G0.jpg.webp?itok=oLLVj-ee"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sun, 11 Oct 2026 10:48:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>KBW: nie było zdarzeń mogących mieć wpływ na przebieg przedterminowych wyborów prezydenta Krakowa</title>
+      <link>https://www.pap.pl/aktualnosci/kbw-nie-bylo-zdarzen-mogacych-miec-wplyw-na-przebieg-przedterminowych-wyborow</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/kbw-nie-bylo-zdarzen-mogacych-miec-wplyw-na-przebieg-przedterminowych-wyborow</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11006.jpg.webp?itok=jwDN6OXd" alt="KBW: nie było zdarzeń mogących mieć wpływ na przebieg przedterminowych wyborów prezydenta Krakowa" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11006.jpg.webp?itok=jwDN6OXd" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11006.jpg.webp?itok=jwDN6OXd" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a11006.jpg.webp?itok=jwDN6OXd"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sun, 11 Oct 2026 08:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pilne spotkanie służb ws. możliwego zamachu na premiera i szefa MON</title>
+      <link>https://www.pap.pl/aktualnosci/rzeczniczka-mswia-w-niedziele-o-godz-11-spotkanie-sluzb-w-zwiazku-z-informacja-dot</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/rzeczniczka-mswia-w-niedziele-o-godz-11-spotkanie-sluzb-w-zwiazku-z-informacja-dot</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_23W%20%281%29.jpg.webp?itok=qIP2tZhx" alt="Pilne spotkanie służb ws. możliwego zamachu na premiera i szefa MON" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_23W%20%281%29.jpg.webp?itok=qIP2tZhx" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_23W%20%281%29.jpg.webp?itok=qIP2tZhx" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_23W%20%281%29.jpg.webp?itok=qIP2tZhx"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sun, 11 Oct 2026 08:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Znak Polski Walczącej odnaleziony podczas remontu elewacji warszawskiej kamienicy [WIDEO]</title>
+      <link>https://www.pap.pl/aktualnosci/znak-polski-walczacej-odnaleziony-podczas-remontu-elewacji-warszawskiej-kamienicy-wideo</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/znak-polski-walczacej-odnaleziony-podczas-remontu-elewacji-warszawskiej-kamienicy-wideo</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Mat.%20wsp%C3%B3lnota.jpg.webp?itok=XFzpmSOj" alt="Znak Polski Walczącej odnaleziony podczas remontu elewacji warszawskiej kamienicy [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Mat.%20wsp%C3%B3lnota.jpg.webp?itok=XFzpmSOj" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Mat.%20wsp%C3%B3lnota.jpg.webp?itok=XFzpmSOj" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Mat.%20wsp%C3%B3lnota.jpg.webp?itok=XFzpmSOj"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sun, 11 Oct 2026 05:45:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>W Krakowie rozpoczęła się II tura przedterminowych wyborów na prezydenta miasta</title>
+      <link>https://www.pap.pl/aktualnosci/w-krakowie-rozpoczela-sie-ii-tura-przedterminowych-wyborow-na-prezydenta-miasta</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/w-krakowie-rozpoczela-sie-ii-tura-przedterminowych-wyborow-na-prezydenta-miasta</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20220109_14D.jpg.webp?itok=lk4J17Lg" alt="W Krakowie rozpoczęła się II tura przedterminowych wyborów na prezydenta miasta" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20220109_14D.jpg.webp?itok=lk4J17Lg" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20220109_14D.jpg.webp?itok=lk4J17Lg" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20220109_14D.jpg.webp?itok=lk4J17Lg"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sun, 11 Oct 2026 05:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>RCB odwołało alert dla woj. lubelskiego i podkarpackiego. Brak zagrożenia na terenie Polski</title>
+      <link>https://www.pap.pl/aktualnosci/rcb-odwolalo-alert-dla-woj-lubelskiego-i-podkarpackiego-brak-zagrozenia-na-terenie-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/rcb-odwolalo-alert-dla-woj-lubelskiego-i-podkarpackiego-brak-zagrozenia-na-terenie-0</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb" alt="RCB odwołało alert dla woj. lubelskiego i podkarpackiego. Brak zagrożenia na terenie Polski" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261002_0BS_0.jpg.webp?itok=eUTJ2Mgb"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sat, 10 Oct 2026 16:42:27 GMT</pubDate>
     </item>
     <item>
       <title>Szef ukraińskiego IPN: między Polską a Ukrainą nie ma złych ani dobrych stosunków</title>
@@ -725,81 +802,26 @@
       <pubDate>Sat, 10 Oct 2026 16:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>Akcja w Garwolinie. Policjanci zabezpieczyli niebezpieczny arsenał 14-latka</title>
-      <link>https://www.pap.pl/aktualnosci/akcja-w-garwolinie-policjanci-zabezpieczyli-niebezpieczny-arsenal-14-latka</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/akcja-w-garwolinie-policjanci-zabezpieczyli-niebezpieczny-arsenal-14-latka</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a07500.jpg.webp?itok=LNz48X1G" alt="Akcja w Garwolinie. Policjanci zabezpieczyli niebezpieczny arsenał 14-latka" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a07500.jpg.webp?itok=LNz48X1G" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a07500.jpg.webp?itok=LNz48X1G" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a07500.jpg.webp?itok=LNz48X1G"/>
-      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 10 Oct 2026 15:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prezes PiS Jarosław Kaczyński: sprawa smoleńska wróci z siłą argumentów, których kiedyś nie było</title>
-      <link>https://www.pap.pl/aktualnosci/prezes-pis-jaroslaw-kaczynski-sprawa-smolenska-wroci-z-sila-argumentow-ktorych-kiedys</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/prezes-pis-jaroslaw-kaczynski-sprawa-smolenska-wroci-z-sila-argumentow-ktorych-kiedys</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pis%2010.jpg.webp?itok=H0BV5g2j" alt="Prezes PiS Jarosław Kaczyński: sprawa smoleńska wróci z siłą argumentów, których kiedyś nie było" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pis%2010.jpg.webp?itok=H0BV5g2j" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pis%2010.jpg.webp?itok=H0BV5g2j" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pis%2010.jpg.webp?itok=H0BV5g2j"/>
-      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 10 Oct 2026 14:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parada jachtów &quot;z duszą&quot; w Gdyni [WIDEO + GALERIA]</title>
-      <link>https://www.pap.pl/aktualnosci/parada-jachtow-w-gdyni-galeria</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/parada-jachtow-w-gdyni-galeria</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_0ZH.jpg.webp?itok=x3B5MvBp" alt="Parada jachtów &quot;z duszą&quot; w Gdyni [WIDEO + GALERIA]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_0ZH.jpg.webp?itok=x3B5MvBp" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_0ZH.jpg.webp?itok=x3B5MvBp" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261010_0ZH.jpg.webp?itok=x3B5MvBp"/>
-      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 10 Oct 2026 14:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Siemoniak: służby badają wątek rosyjskiej dezinformacji wokół incydentów w szkołach</title>
-      <link>https://www.pap.pl/aktualnosci/siemoniak-sluzby-badaja-watek-rosyjskiej-dezinformacji-wokol-incydentow-w-szkolach-0</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/siemoniak-sluzby-badaja-watek-rosyjskiej-dezinformacji-wokol-incydentow-w-szkolach-0</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a08201.jpg.webp?itok=m5C3qzQA" alt="Siemoniak: służby badają wątek rosyjskiej dezinformacji wokół incydentów w szkołach" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a08201.jpg.webp?itok=m5C3qzQA" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a08201.jpg.webp?itok=m5C3qzQA" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a08201.jpg.webp?itok=m5C3qzQA"/>
-      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 10 Oct 2026 12:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Komenda Główna Policji: w poniedziałek patrole policji wrócą do szkół</title>
-      <link>https://www.pap.pl/aktualnosci/komenda-glowna-policji-w-poniedzialek-patrole-policji-wroca-do-szkol</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/komenda-glowna-policji-w-poniedzialek-patrole-policji-wroca-do-szkol</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261009_1CM.jpg.webp?itok=C_uUu08z" alt="Komenda Główna Policji: w poniedziałek patrole policji wrócą do szkół" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261009_1CM.jpg.webp?itok=C_uUu08z" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261009_1CM.jpg.webp?itok=C_uUu08z" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261009_1CM.jpg.webp?itok=C_uUu08z"/>
-      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 10 Oct 2026 11:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tłumy na dniu otwartym stacji metra Chrzanów [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/tlumy-na-dniu-otwartym-stacji-metra-chrzanow-wideo</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/tlumy-na-dniu-otwartym-stacji-metra-chrzanow-wideo</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/chrzanow%20metro.JPG.webp?itok=WLwQIeKR" alt="Tłumy na dniu otwartym stacji metra Chrzanów [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/chrzanow%20metro.JPG.webp?itok=WLwQIeKR" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/chrzanow%20metro.JPG.webp?itok=WLwQIeKR" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/chrzanow%20metro.JPG.webp?itok=WLwQIeKR"/>
-      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 10 Oct 2026 11:23:51 GMT</pubDate>
+      <title>Ukraina. Władze Kramatorska ogłosiły przymusową ewakuację dzieci z zagrożonych atakami obszarów</title>
+      <link>https://www.pap.pl/aktualnosci/ukraina-wladze-kramatorska-oglosily-przymusowa-ewakuacje-dzieci-z-zagrozonych-atakami-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ukraina-wladze-kramatorska-oglosily-przymusowa-ewakuacje-dzieci-z-zagrozonych-atakami-0</guid>
+      <description>Władze Kramatorska na wschodzie Ukrainy, gdzie w czwartek w rosyjskich atakach zginęło 35 osób, rozszerzyły strefę przymusowej ewakuacji dzieci ze szczególnie zagrożonych obszarów miasta – powiadomił w niedzielę szef władz wojskowych obwodu donieckiego Wadym Fiłaszkin.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261005_1U3.jpg.webp?itok=-7nV5Pmz" alt="Ukraina. Władze Kramatorska ogłosiły przymusową ewakuację dzieci z zagrożonych atakami obszarów" loading="lazy"/></p>
+<p>Władze Kramatorska na wschodzie Ukrainy, gdzie w czwartek w rosyjskich atakach zginęło 35 osób, rozszerzyły strefę przymusowej ewakuacji dzieci ze szczególnie zagrożonych obszarów miasta – powiadomił w niedzielę szef władz wojskowych obwodu donieckiego Wadym Fiłaszkin.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261005_1U3.jpg.webp?itok=-7nV5Pmz" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261005_1U3.jpg.webp?itok=-7nV5Pmz" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261005_1U3.jpg.webp?itok=-7nV5Pmz"/>
+      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
+      <pubDate>Sun, 11 Oct 2026 11:18:21 GMT</pubDate>
     </item>
     <item>
       <title>Trump uderza w Zełenskiego. &quot;Czas by Ukraina wybrała nowego prezydenta&quot;</title>
       <link>https://www.pap.pl/aktualnosci/usa-trump-zelenski-mogl-wiele-razy-zakonczyc-wojne-czas-ukraina-wybrala-nowego</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/usa-trump-zelenski-mogl-wiele-razy-zakonczyc-wojne-czas-ukraina-wybrala-nowego</guid>
-      <description>Prezydent USA Donald Trump powiedział w sobotę, że przywódca Ukrainy Wołodymyr Zełenski mógł wiele razy zakończyć trwającą w jego kraju wojnę, ale wolał tego nie robić. Oświadczył, że to czas, by Ukraina wybrała nowego prezydenta.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261006_2EV.jpg.webp?itok=xHW4JcCL" alt="Trump uderza w Zełenskiego. &quot;Czas by Ukraina wybrała nowego prezydenta&quot;" loading="lazy"/></p>
-<p>Prezydent USA Donald Trump powiedział w sobotę, że przywódca Ukrainy Wołodymyr Zełenski mógł wiele razy zakończyć trwającą w jego kraju wojnę, ale wolał tego nie robić. Oświadczył, że to czas, by Ukraina wybrała nowego prezydenta.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261006_2EV.jpg.webp?itok=xHW4JcCL" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261006_2EV.jpg.webp?itok=xHW4JcCL" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261006_2EV.jpg.webp?itok=xHW4JcCL"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_2EV.jpg.webp?itok=EkY5W0v_" alt="Trump uderza w Zełenskiego. &quot;Czas by Ukraina wybrała nowego prezydenta&quot;" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_2EV.jpg.webp?itok=EkY5W0v_" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_2EV.jpg.webp?itok=EkY5W0v_" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_2EV.jpg.webp?itok=EkY5W0v_"/>
       <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
       <pubDate>Sat, 10 Oct 2026 16:53:57 GMT</pubDate>
     </item>
@@ -879,28 +901,6 @@
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20240516_0OP.jpg.webp?itok=pQirTENP"/>
       <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
       <pubDate>Fri, 09 Oct 2026 09:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pokojowa Nagroda Nobla przyznana. Padło nazwisko laureatki [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/pokojowa-nagroda-nobla-przyznana-padlo-nazwisko-laureatki</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/pokojowa-nagroda-nobla-przyznana-padlo-nazwisko-laureatki</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20230320_06H.jpg.webp?itok=hkihJXwL" alt="Pokojowa Nagroda Nobla przyznana. Padło nazwisko laureatki [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20230320_06H.jpg.webp?itok=hkihJXwL" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20230320_06H.jpg.webp?itok=hkihJXwL" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20230320_06H.jpg.webp?itok=hkihJXwL"/>
-      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
-      <pubDate>Fri, 09 Oct 2026 09:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>„Ostrzegaliśmy 10-15 razy”. Czy można było zapobiec atakowi Hamasu na Izrael?</title>
-      <link>https://www.pap.pl/aktualnosci/ostrzegalismy-10-15-razy-czy-mozna-bylo-zapobiec-atakowi-hamasu-na-izrael</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ostrzegalismy-10-15-razy-czy-mozna-bylo-zapobiec-atakowi-hamasu-na-izrael</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20251130_0F8.jpg.webp?itok=iplsLsP3" alt="„Ostrzegaliśmy 10-15 razy”. Czy można było zapobiec atakowi Hamasu na Izrael?" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20251130_0F8.jpg.webp?itok=iplsLsP3" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20251130_0F8.jpg.webp?itok=iplsLsP3" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20251130_0F8.jpg.webp?itok=iplsLsP3"/>
-      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
-      <pubDate>Fri, 09 Oct 2026 06:19:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
