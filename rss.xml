@@ -5,7 +5,7 @@
     <link>https://www.pap.pl/</link>
     <description>Polaczony feed RSS ze wszystkich skonfigurowanych dzialow PAP.pl</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 11 Oct 2026 21:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:47:15 GMT</lastBuildDate>
     <item>
       <title>Historia alternatywnej prasy w Muzeum Karykatury w Warszawie [WIDEO]</title>
       <link>https://www.pap.pl/aktualnosci/historia-alternatywnej-prasy-w-muzeum-karykatury-w-warszawie-wideo</link>
@@ -119,15 +119,17 @@
       <pubDate>Fri, 09 Oct 2026 08:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>Druga tura wyborów w Krakowie. Są wyniki late poll</title>
-      <link>https://www.pap.pl/aktualnosci/druga-tura-wyborow-w-krakowie-wyniki</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/druga-tura-wyborow-w-krakowie-wyniki</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260807_109.jpg.webp?itok=kFtvI5wY" alt="Druga tura wyborów w Krakowie. Są wyniki late poll" loading="lazy"/></p>]]></content:encoded>
+      <title>Kraków wybrał nowego prezydenta. Oto wynik II tury wyborów</title>
+      <link>https://www.pap.pl/aktualnosci/wybory-w-krakowie-wyniki-wyborow-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/wybory-w-krakowie-wyniki-wyborow-0</guid>
+      <description>Łukasz Gibała wygrał drugą turę wyborów prezydenta Krakowa. Zdobył 62,12 proc. głosów, Monika Piątkowska 37,88 proc. - przekazała PKW.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260807_109.jpg.webp?itok=kFtvI5wY" alt="Kraków wybrał nowego prezydenta. Oto wynik II tury wyborów" loading="lazy"/></p>
+<p>Łukasz Gibała wygrał drugą turę wyborów prezydenta Krakowa. Zdobył 62,12 proc. głosów, Monika Piątkowska 37,88 proc. - przekazała PKW.</p>]]></content:encoded>
       <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260807_109.jpg.webp?itok=kFtvI5wY" type="image/webp" length="0"/>
       <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260807_109.jpg.webp?itok=kFtvI5wY" medium="image" type="image/webp"/>
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260807_109.jpg.webp?itok=kFtvI5wY"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Sun, 11 Oct 2026 19:01:00 GMT</pubDate>
+      <pubDate>Sun, 11 Oct 2026 23:10:00 GMT</pubDate>
     </item>
     <item>
       <title>Gibała: po 24 latach Krakowianie odzyskali swoje miasto [WIDEO]</title>
@@ -144,9 +146,7 @@
       <title>Piątkowska: bardzo dziękuję za każdy głos, który otrzymałam [WIDEO]</title>
       <link>https://www.pap.pl/aktualnosci/piatkowska-bardzo-dziekuje-za-kazdy-glos-ktory-otrzymalam</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/piatkowska-bardzo-dziekuje-za-kazdy-glos-ktory-otrzymalam</guid>
-      <description>Senator Monika Piątkowska, która według sondażu exit poll przegrała w drugiej turze wyborów prezydenta Krakowa, podczas wieczoru wyborczego podziękowała za każdy oddany na nią głos. Zapowiedziała, że będzie uważnie przyglądać się, czy Łukasz Gibała realizuje złożone w kampanii obietnice.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261011_231.jpg.webp?itok=qBXSp1pD" alt="Piątkowska: bardzo dziękuję za każdy głos, który otrzymałam [WIDEO]" loading="lazy"/></p>
-<p>Senator Monika Piątkowska, która według sondażu exit poll przegrała w drugiej turze wyborów prezydenta Krakowa, podczas wieczoru wyborczego podziękowała za każdy oddany na nią głos. Zapowiedziała, że będzie uważnie przyglądać się, czy Łukasz Gibała realizuje złożone w kampanii obietnice.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261011_231.jpg.webp?itok=qBXSp1pD" alt="Piątkowska: bardzo dziękuję za każdy głos, który otrzymałam [WIDEO]" loading="lazy"/></p>]]></content:encoded>
       <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261011_231.jpg.webp?itok=qBXSp1pD" type="image/webp" length="0"/>
       <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261011_231.jpg.webp?itok=qBXSp1pD" medium="image" type="image/webp"/>
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261011_231.jpg.webp?itok=qBXSp1pD"/>
