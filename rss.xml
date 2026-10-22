@@ -5,7 +5,7 @@
     <link>https://www.pap.pl/</link>
     <description>Polaczony feed RSS ze wszystkich skonfigurowanych dzialow PAP.pl</description>
     <language>pl</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:59:26 GMT</lastBuildDate>
     <item>
       <title>Spektakl „Kraków narodowej sztuce, czyli tryumf miernoty” – ostatnia część tryptyku o Wyspiańskim [WIDEO]</title>
       <link>https://www.pap.pl/aktualnosci/spektakl-krakow-narodowej-sztuce-czyli-tryumf-miernoty-ostatnia-czesc-tryptyku-o</link>
@@ -127,7 +127,6 @@
       <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261021_1M5%20%281%29.jpg.webp?itok=UOblsGE-" medium="image" type="image/webp"/>
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261021_1M5%20%281%29.jpg.webp?itok=UOblsGE-"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Wed, 21 Oct 2026 18:37:00 GMT</pubDate>
     </item>
     <item>
       <title>Olsztyn. Zamek Kapituły Warmińskiej opustoszał - czeka na rozpoczęcie remontu [WIDEO]</title>
@@ -138,7 +137,6 @@
       <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260913_19A%20%281%29.jpg.webp?itok=bt2hXRl_" medium="image" type="image/webp"/>
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260913_19A%20%281%29.jpg.webp?itok=bt2hXRl_"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Wed, 21 Oct 2026 13:34:00 GMT</pubDate>
     </item>
     <item>
       <title>Piłkarska LE. Lech liczy na pierwsze punkty</title>
@@ -701,94 +699,84 @@
       <pubDate>Mon, 19 Oct 2026 03:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>Alert RCB dla mieszkańców woj. lubelskiego. Kolejny atak Rosji na Ukrainę</title>
-      <link>https://www.pap.pl/aktualnosci/alert-rcb-dla-mieszkancow-woj-lubelskiego-kolejny-atak-rosji-na-ukraine</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/alert-rcb-dla-mieszkancow-woj-lubelskiego-kolejny-atak-rosji-na-ukraine</guid>
-      <description>Rządowe Centrum Bezpieczeństwa wydało w środę wieczorem kolejny tego dnia alert w związku z rosyjskim atakiem powietrznym na terenie Ukrainy. Alert wysłano do mieszkańców Lubelszczyzny. W przestrzeni powietrznej RP operuje wojsko.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261008_15S.jpg.webp?itok=G1TikCdX" alt="Alert RCB dla mieszkańców woj. lubelskiego. Kolejny atak Rosji na Ukrainę" loading="lazy"/></p>
-<p>Rządowe Centrum Bezpieczeństwa wydało w środę wieczorem kolejny tego dnia alert w związku z rosyjskim atakiem powietrznym na terenie Ukrainy. Alert wysłano do mieszkańców Lubelszczyzny. W przestrzeni powietrznej RP operuje wojsko.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261008_15S.jpg.webp?itok=G1TikCdX" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261008_15S.jpg.webp?itok=G1TikCdX" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261008_15S.jpg.webp?itok=G1TikCdX"/>
+      <title>Alert RCB dla mieszkańców woj. lubelskiego odwołany</title>
+      <link>https://www.pap.pl/aktualnosci/alert-rcb-dla-mieszkancow-woj-lubelskiego-odwolany-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/alert-rcb-dla-mieszkancow-woj-lubelskiego-odwolany-0</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/duze_zdjecie_pwa_1260x708/public/202610/pap_20260908_09P%20%281%29.jpg.webp?itok=gPFRSbVa" alt="Alert RCB dla mieszkańców woj. lubelskiego odwołany" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/duze_zdjecie_pwa_1260x708/public/202610/pap_20260908_09P%20%281%29.jpg.webp?itok=gPFRSbVa" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/duze_zdjecie_pwa_1260x708/public/202610/pap_20260908_09P%20%281%29.jpg.webp?itok=gPFRSbVa" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/duze_zdjecie_pwa_1260x708/public/202610/pap_20260908_09P%20%281%29.jpg.webp?itok=gPFRSbVa"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 19:43:00 GMT</pubDate>
     </item>
     <item>
       <title>Alert RCB dla Podkarpacia odwołany. „Brak zagrożenia na terenie Polski”</title>
       <link>https://www.pap.pl/aktualnosci/alert-rcb-dla-podkarpacia-odwolany-brak-zagrozenia-na-terenie-polski</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/alert-rcb-dla-podkarpacia-odwolany-brak-zagrozenia-na-terenie-polski</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719451%20%281%29.jpg.webp?itok=9dShLGg4" alt="Alert RCB dla Podkarpacia odwołany. „Brak zagrożenia na terenie Polski”" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719451%20%281%29.jpg.webp?itok=9dShLGg4" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719451%20%281%29.jpg.webp?itok=9dShLGg4" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719451%20%281%29.jpg.webp?itok=9dShLGg4"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/image719451%20%281%29.jpg.webp?itok=T8TF2PhH" alt="Alert RCB dla Podkarpacia odwołany. „Brak zagrożenia na terenie Polski”" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/image719451%20%281%29.jpg.webp?itok=T8TF2PhH" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/image719451%20%281%29.jpg.webp?itok=T8TF2PhH" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/image719451%20%281%29.jpg.webp?itok=T8TF2PhH"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 16:43:48 GMT</pubDate>
     </item>
     <item>
       <title>Ostatnie posiedzenie komisji śledczej ds. Pegasusa. Przyjęto raport końcowy</title>
       <link>https://www.pap.pl/aktualnosci/ostatnie-posiedzenie-komisji-sledczej-ds-pegasusa-przyjeto-raport-koncowy</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ostatnie-posiedzenie-komisji-sledczej-ds-pegasusa-przyjeto-raport-koncowy</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a21271.jpg.webp?itok=_sL4ZdHn" alt="Ostatnie posiedzenie komisji śledczej ds. Pegasusa. Przyjęto raport końcowy" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a21271.jpg.webp?itok=_sL4ZdHn" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a21271.jpg.webp?itok=_sL4ZdHn" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a21271.jpg.webp?itok=_sL4ZdHn"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/26a21271.jpg.webp?itok=4YBLXkbd" alt="Ostatnie posiedzenie komisji śledczej ds. Pegasusa. Przyjęto raport końcowy" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/26a21271.jpg.webp?itok=4YBLXkbd" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/26a21271.jpg.webp?itok=4YBLXkbd" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/26a21271.jpg.webp?itok=4YBLXkbd"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 15:04:06 GMT</pubDate>
     </item>
     <item>
       <title>Najnowszy ranking zaufania CBOS. Lider ze sporą przewagą [INFOGRAFIKA]</title>
       <link>https://www.pap.pl/aktualnosci/najnowszy-ranking-zaufania-cbos-lider-ze-spora-przewaga</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/najnowszy-ranking-zaufania-cbos-lider-ze-spora-przewaga</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260225_0B2.jpg.webp?itok=SF4Lxv6x" alt="Najnowszy ranking zaufania CBOS. Lider ze sporą przewagą [INFOGRAFIKA]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260225_0B2.jpg.webp?itok=SF4Lxv6x" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260225_0B2.jpg.webp?itok=SF4Lxv6x" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260225_0B2.jpg.webp?itok=SF4Lxv6x"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260225_0B2.jpg.webp?itok=hPKID9Nr" alt="Najnowszy ranking zaufania CBOS. Lider ze sporą przewagą [INFOGRAFIKA]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260225_0B2.jpg.webp?itok=hPKID9Nr" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260225_0B2.jpg.webp?itok=hPKID9Nr" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260225_0B2.jpg.webp?itok=hPKID9Nr"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 14:38:00 GMT</pubDate>
     </item>
     <item>
       <title>Żołnierz Wojska Polskiego z granicy z Białorusią uniewinniony</title>
       <link>https://www.pap.pl/aktualnosci/podporucznik-wojska-polskiego-z-granicy-z-bialorusia-uniewinniony-szef-mon-zolnierzowi</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/podporucznik-wojska-polskiego-z-granicy-z-bialorusia-uniewinniony-szef-mon-zolnierzowi</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/zol%20kosi%20ok.jpg.webp?itok=jpqvfYy9" alt="Żołnierz Wojska Polskiego z granicy z Białorusią uniewinniony" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/zol%20kosi%20ok.jpg.webp?itok=jpqvfYy9" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/zol%20kosi%20ok.jpg.webp?itok=jpqvfYy9" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/zol%20kosi%20ok.jpg.webp?itok=jpqvfYy9"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/zol%20kosi%20ok.jpg.webp?itok=2MAfPVze" alt="Żołnierz Wojska Polskiego z granicy z Białorusią uniewinniony" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/zol%20kosi%20ok.jpg.webp?itok=2MAfPVze" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/zol%20kosi%20ok.jpg.webp?itok=2MAfPVze" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/zol%20kosi%20ok.jpg.webp?itok=2MAfPVze"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 13:54:39 GMT</pubDate>
     </item>
     <item>
       <title>Znaleziono niezidentyfikowany obiekt na posesji w Lubaczowie. Służby na miejscu [WIDEO]</title>
       <link>https://www.pap.pl/aktualnosci/znaleziono-niezidentyfikowany-obiekt-na-posesji-w-lubaczowie-sluzby-na-miejscu</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/znaleziono-niezidentyfikowany-obiekt-na-posesji-w-lubaczowie-sluzby-na-miejscu</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261018_06C.jpg.webp?itok=9IZPp7Rp" alt="Znaleziono niezidentyfikowany obiekt na posesji w Lubaczowie. Służby na miejscu [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261018_06C.jpg.webp?itok=9IZPp7Rp" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261018_06C.jpg.webp?itok=9IZPp7Rp" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261018_06C.jpg.webp?itok=9IZPp7Rp"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261018_06C.jpg.webp?itok=vDAEJTWy" alt="Znaleziono niezidentyfikowany obiekt na posesji w Lubaczowie. Służby na miejscu [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261018_06C.jpg.webp?itok=vDAEJTWy" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261018_06C.jpg.webp?itok=vDAEJTWy" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261018_06C.jpg.webp?itok=vDAEJTWy"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 13:30:55 GMT</pubDate>
     </item>
     <item>
       <title>RPO ws. szkół: działania powinny obejmować bezpieczeństwo i kwestię zdrowia psychicznego młodych</title>
       <link>https://www.pap.pl/aktualnosci/rpo-ws-szkol-dzialania-powinny-obejmowac-bezpieczenstwo-i-kwestie-zdrowia-psychicznego</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/rpo-ws-szkol-dzialania-powinny-obejmowac-bezpieczenstwo-i-kwestie-zdrowia-psychicznego</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261012_0DC_0.jpg.webp?itok=l4vR-Y0U" alt="RPO ws. szkół: działania powinny obejmować bezpieczeństwo i kwestię zdrowia psychicznego młodych" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261012_0DC_0.jpg.webp?itok=l4vR-Y0U" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261012_0DC_0.jpg.webp?itok=l4vR-Y0U" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261012_0DC_0.jpg.webp?itok=l4vR-Y0U"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261012_0DC_0.jpg.webp?itok=JF6nI6sO" alt="RPO ws. szkół: działania powinny obejmować bezpieczeństwo i kwestię zdrowia psychicznego młodych" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261012_0DC_0.jpg.webp?itok=JF6nI6sO" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261012_0DC_0.jpg.webp?itok=JF6nI6sO" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20261012_0DC_0.jpg.webp?itok=JF6nI6sO"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 13:22:28 GMT</pubDate>
     </item>
     <item>
       <title>Atak nożownika w klasztorze. Ihor M. pozostanie w areszcie</title>
       <link>https://www.pap.pl/aktualnosci/atak-nozownika-w-klasztorze-ihor-m-pozostanie-w-areszcie</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/atak-nozownika-w-klasztorze-ihor-m-pozostanie-w-areszcie</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260926_1S0.jpg.webp?itok=1y-aQ_rr" alt="Atak nożownika w klasztorze. Ihor M. pozostanie w areszcie" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260926_1S0.jpg.webp?itok=1y-aQ_rr" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260926_1S0.jpg.webp?itok=1y-aQ_rr" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260926_1S0.jpg.webp?itok=1y-aQ_rr"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260926_1S0.jpg.webp?itok=-ElZAuPh" alt="Atak nożownika w klasztorze. Ihor M. pozostanie w areszcie" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260926_1S0.jpg.webp?itok=-ElZAuPh" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260926_1S0.jpg.webp?itok=-ElZAuPh" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_pwa_309x177/public/202610/pap_20260926_1S0.jpg.webp?itok=-ElZAuPh"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Wed, 21 Oct 2026 12:46:34 GMT</pubDate>
     </item>
     <item>
       <title>Jest nowy komunikat ws. stanu zdrowia papieża. Są wyniki badań</title>
