@@ -5,17 +5,28 @@
     <link>https://www.pap.pl/</link>
     <description>Polaczony feed RSS ze wszystkich skonfigurowanych dzialow PAP.pl</description>
     <language>pl</language>
-    <lastBuildDate>Sat, 31 Oct 2026 03:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:32:18 GMT</lastBuildDate>
+    <item>
+      <title>52. Kwesta Powązkowska w Warszawie. Artyści zbierają na konserwację zabytkowych nagrobków</title>
+      <link>https://www.pap.pl/aktualnosci/52-kwesta-powazkowska-w-warszawie-artysci-zbieraja-na-konserwacje-zabytkowych-nagrobkow</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/52-kwesta-powazkowska-w-warszawie-artysci-zbieraja-na-konserwacje-zabytkowych-nagrobkow</guid>
+      <description>Trwa 52. Kwesta Powązkowska w Warszawie. Znani artyści zbierają pieniądze na ratowanie zabytkowych nagrobków na Starych Powązkach.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20251029_3UE%20%281%29.jpg.webp?itok=oOsICZKo" alt="52. Kwesta Powązkowska w Warszawie. Artyści zbierają na konserwację zabytkowych nagrobków" loading="lazy"/></p>
+<p>Trwa 52. Kwesta Powązkowska w Warszawie. Znani artyści zbierają pieniądze na ratowanie zabytkowych nagrobków na Starych Powązkach.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20251029_3UE%20%281%29.jpg.webp?itok=oOsICZKo" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20251029_3UE%20%281%29.jpg.webp?itok=oOsICZKo" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20251029_3UE%20%281%29.jpg.webp?itok=oOsICZKo"/>
+      <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
+      <pubDate>Sat, 31 Oct 2026 09:36:51 GMT</pubDate>
+    </item>
     <item>
       <title>Sacha Baron Cohen przeprosił mieszkańców Kazachstanu za postać Borata</title>
       <link>https://www.pap.pl/aktualnosci/sacha-baron-cohen-przeprosil-mieszkancow-kazachstanu-za-postac-borata</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/sacha-baron-cohen-przeprosil-mieszkancow-kazachstanu-za-postac-borata</guid>
-      <description>Satyryk Sacha Baron Cohen przeprosił mieszkańców Kazachstanu za wykreowaną przez siebie postać Borata - wulgarnego, rasistowskiego, seksistowskiego kazachskiego dziennikarza, który podróżuje po Ameryce i poprzez interakcje z przypadkowymi ludźmi obnaża hipokryzję, uprzedzenia, rasizm Zachodu.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image597506.jpg.webp?itok=ZYSv-j3T" alt="Sacha Baron Cohen przeprosił mieszkańców Kazachstanu za postać Borata" loading="lazy"/></p>
-<p>Satyryk Sacha Baron Cohen przeprosił mieszkańców Kazachstanu za wykreowaną przez siebie postać Borata - wulgarnego, rasistowskiego, seksistowskiego kazachskiego dziennikarza, który podróżuje po Ameryce i poprzez interakcje z przypadkowymi ludźmi obnaża hipokryzję, uprzedzenia, rasizm Zachodu.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image597506.jpg.webp?itok=ZYSv-j3T" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image597506.jpg.webp?itok=ZYSv-j3T" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image597506.jpg.webp?itok=ZYSv-j3T"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image597506.jpg.webp?itok=jR0VH8xU" alt="Sacha Baron Cohen przeprosił mieszkańców Kazachstanu za postać Borata" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image597506.jpg.webp?itok=jR0VH8xU" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image597506.jpg.webp?itok=jR0VH8xU" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image597506.jpg.webp?itok=jR0VH8xU"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
       <pubDate>Fri, 30 Oct 2026 16:23:05 GMT</pubDate>
     </item>
@@ -108,61 +119,59 @@
       <pubDate>Thu, 29 Oct 2026 08:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>Banu Mushtaq — dla niej pisanie jest cichą rebelią</title>
-      <link>https://www.pap.pl/aktualnosci/banu-mushtaq-dla-niej-pisanie-jest-cicha-rebelia</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/banu-mushtaq-dla-niej-pisanie-jest-cicha-rebelia</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250520_33X.jpg.webp?itok=VsJOaLUB" alt="Banu Mushtaq — dla niej pisanie jest cichą rebelią" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250520_33X.jpg.webp?itok=VsJOaLUB" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250520_33X.jpg.webp?itok=VsJOaLUB" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250520_33X.jpg.webp?itok=VsJOaLUB"/>
+      <title>Ukazało się zarządzenie dot. organizacji pracy TK. Święczkowski spotka się z częścią sędziów [WIDEO]</title>
+      <link>https://www.pap.pl/aktualnosci/na-stronie-tk-ukazalo-sie-zarzadzenie-dot-organizacji-pracy-trybunalu-konstytucyjnego</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/na-stronie-tk-ukazalo-sie-zarzadzenie-dot-organizacji-pracy-trybunalu-konstytucyjnego</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/g444.jpg.webp?itok=DyScXVbi" alt="Ukazało się zarządzenie dot. organizacji pracy TK. Święczkowski spotka się z częścią sędziów [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/g444.jpg.webp?itok=DyScXVbi" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/g444.jpg.webp?itok=DyScXVbi" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/g444.jpg.webp?itok=DyScXVbi"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Thu, 29 Oct 2026 05:20:00 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 10:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>Prezydent Karol Nawrocki wszedł do siedziby Trybunału Konstytucyjnego; wzajemne oskarżenia o atak fizyczny [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/prezydent-karol-nawrocki-wszedl-do-siedziby-trybunalu-konstytucyjnego</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/prezydent-karol-nawrocki-wszedl-do-siedziby-trybunalu-konstytucyjnego</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-ce093081-0e88-43da-94ca-6187388759c0-2.jpg.webp?itok=vQwH_U5F" alt="Prezydent Karol Nawrocki wszedł do siedziby Trybunału Konstytucyjnego; wzajemne oskarżenia o atak fizyczny [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-ce093081-0e88-43da-94ca-6187388759c0-2.jpg.webp?itok=vQwH_U5F" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-ce093081-0e88-43da-94ca-6187388759c0-2.jpg.webp?itok=vQwH_U5F" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/v-i-ce093081-0e88-43da-94ca-6187388759c0-2.jpg.webp?itok=vQwH_U5F"/>
+      <title>Kryzys w TK - prezydent zwołuje pilne konsultacje sił parlamentarnych, premier pisze o przywracaniu rządów prawa</title>
+      <link>https://www.pap.pl/aktualnosci/kryzys-w-tk-prezydent-zwoluje-pilne-konsultacje-sil-parlamentarnych-premier-pisze-o</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/kryzys-w-tk-prezydent-zwoluje-pilne-konsultacje-sil-parlamentarnych-premier-pisze-o</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_06Y.jpg.webp?itok=YezHALL1" alt="Kryzys w TK - prezydent zwołuje pilne konsultacje sił parlamentarnych, premier pisze o przywracaniu rządów prawa" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_06Y.jpg.webp?itok=YezHALL1" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_06Y.jpg.webp?itok=YezHALL1" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_06Y.jpg.webp?itok=YezHALL1"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Fri, 30 Oct 2026 23:55:26 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 05:53:24 GMT</pubDate>
     </item>
     <item>
-      <title>Waldemar Żurek: prokurator jest w siedzibie Trybunału Konstytucyjnego</title>
-      <link>https://www.pap.pl/aktualnosci/waldemar-zurek-prokurator-jest-w-siedzibie-trybunalu-konstytucyjnego</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/waldemar-zurek-prokurator-jest-w-siedzibie-trybunalu-konstytucyjnego</guid>
-      <description>Prokurator Andrzej Piaseczny jest w siedzibie Trybunału Konstytucyjnego – poinformował PAP prokurator generalny Waldemar Żurek. Każdy, kto łamie prawo, stanie przed sądem – dodał.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5" alt="Waldemar Żurek: prokurator jest w siedzibie Trybunału Konstytucyjnego" loading="lazy"/></p>
-<p>Prokurator Andrzej Piaseczny jest w siedzibie Trybunału Konstytucyjnego – poinformował PAP prokurator generalny Waldemar Żurek. Każdy, kto łamie prawo, stanie przed sądem – dodał.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5"/>
+      <title>Zagraniczne media o sytuacji wokół TK: chaos i eskalacja konfliktu między premierem a prezydentem</title>
+      <link>https://www.pap.pl/aktualnosci/zagraniczne-media-o-sytuacji-wokol-tk-chaos-i-eskalacja-konfliktu-miedzy-premierem</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/zagraniczne-media-o-sytuacji-wokol-tk-chaos-i-eskalacja-konfliktu-miedzy-premierem</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_075.jpg.webp?itok=U5HfBkTk" alt="Zagraniczne media o sytuacji wokół TK: chaos i eskalacja konfliktu między premierem a prezydentem" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_075.jpg.webp?itok=U5HfBkTk" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_075.jpg.webp?itok=U5HfBkTk" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261031_075.jpg.webp?itok=U5HfBkTk"/>
       <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Sat, 31 Oct 2026 02:16:00 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 11:03:17 GMT</pubDate>
     </item>
     <item>
-      <title>Premier: przywracanie rządów prawa jest naszym obowiązkiem</title>
-      <link>https://www.pap.pl/aktualnosci/premier-przywracanie-rzadow-prawa-jest-naszym-obowiazkiem-innej-drogi-nie-ma</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/premier-przywracanie-rzadow-prawa-jest-naszym-obowiazkiem-innej-drogi-nie-ma</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0R9%20%281%29.jpg.webp?itok=Y920QG3U" alt="Premier: przywracanie rządów prawa jest naszym obowiązkiem" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0R9%20%281%29.jpg.webp?itok=Y920QG3U" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0R9%20%281%29.jpg.webp?itok=Y920QG3U" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0R9%20%281%29.jpg.webp?itok=Y920QG3U"/>
-      <source url="https://www.pap.pl/kultura">PAP.pl - Kultura</source>
-      <pubDate>Fri, 30 Oct 2026 18:57:29 GMT</pubDate>
+      <title>Trener norweskich piłkarzy Solbakken: były zapytania z klubów pięciu największych lig Europy</title>
+      <link>https://www.pap.pl/aktualnosci/trener-norweskich-pilkarzy-solbakken-byly-zapytania-z-klubow-pieciu-najwiekszych-lig</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/trener-norweskich-pilkarzy-solbakken-byly-zapytania-z-klubow-pieciu-najwiekszych-lig</guid>
+      <description>Selekcjoner piłkarskiej reprezentacji Norwegii Stale Solbakken zdradził, że w niedalekiej przyszłości planuje zostać ponownie trenerem klubowym, a po tegorocznym mundialu, w którym Norwegia dotarła do ćwierćfinału, otrzymał oferty z czołowych europejskich lig.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260713_1EX.jpg.webp?itok=4JBigO2Y" alt="Trener norweskich piłkarzy Solbakken: były zapytania z klubów pięciu największych lig Europy" loading="lazy"/></p>
+<p>Selekcjoner piłkarskiej reprezentacji Norwegii Stale Solbakken zdradził, że w niedalekiej przyszłości planuje zostać ponownie trenerem klubowym, a po tegorocznym mundialu, w którym Norwegia dotarła do ćwierćfinału, otrzymał oferty z czołowych europejskich lig.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260713_1EX.jpg.webp?itok=4JBigO2Y" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260713_1EX.jpg.webp?itok=4JBigO2Y" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260713_1EX.jpg.webp?itok=4JBigO2Y"/>
+      <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
+      <pubDate>Sat, 31 Oct 2026 09:13:45 GMT</pubDate>
     </item>
     <item>
       <title>Znamy pary 1/8 finału pucharu Polski. Najciekawiej w Warszawie</title>
       <link>https://www.pap.pl/aktualnosci/znamy-pary-18-finalu-pucharu-polski-najciekawiej-w-warszawie</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/znamy-pary-18-finalu-pucharu-polski-najciekawiej-w-warszawie</guid>
-      <description>Starcie wicelidera 1. ligi Polonii Warszawa z Rakowem Częstochowa to najciekawiej zapowiadająca się para 1/8 finału piłkarskiego Pucharu Polski. W wyniku piątkowego losowania zaledwie cztery drużyny ekstraklasy, które pozostały w rywalizacji, trafiły na rywali z niższych szczebli.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=o3yBALox" alt="Znamy pary 1/8 finału pucharu Polski. Najciekawiej w Warszawie" loading="lazy"/></p>
-<p>Starcie wicelidera 1. ligi Polonii Warszawa z Rakowem Częstochowa to najciekawiej zapowiadająca się para 1/8 finału piłkarskiego Pucharu Polski. W wyniku piątkowego losowania zaledwie cztery drużyny ekstraklasy, które pozostały w rywalizacji, trafiły na rywali z niższych szczebli.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=o3yBALox" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=o3yBALox" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=o3yBALox"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=TDIlQbwC" alt="Znamy pary 1/8 finału pucharu Polski. Najciekawiej w Warszawie" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=TDIlQbwC" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=TDIlQbwC" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261029_1EG%20%281%29.jpg.webp?itok=TDIlQbwC"/>
       <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
       <pubDate>Fri, 30 Oct 2026 14:34:31 GMT</pubDate>
     </item>
@@ -255,26 +264,37 @@
       <pubDate>Wed, 28 Oct 2026 13:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>Sinner: moje ciało to jedyny przeciwnik, którego nie mogę pokonać</title>
-      <link>https://www.pap.pl/aktualnosci/sinner-moje-cialo-jedyny-przeciwnik-ktorego-nie-moge-pokonac</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/sinner-moje-cialo-jedyny-przeciwnik-ktorego-nie-moge-pokonac</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260712_1FI.jpg.webp?itok=QTYPxAXX" alt="Sinner: moje ciało to jedyny przeciwnik, którego nie mogę pokonać" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260712_1FI.jpg.webp?itok=QTYPxAXX" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260712_1FI.jpg.webp?itok=QTYPxAXX" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260712_1FI.jpg.webp?itok=QTYPxAXX"/>
-      <source url="https://www.pap.pl/sport">PAP.pl - Sport</source>
-      <pubDate>Wed, 28 Oct 2026 08:42:47 GMT</pubDate>
+      <title>Badaczka: z cyfrowym życiem po śmierci łatwo przekroczyć granicę</title>
+      <link>https://www.pap.pl/aktualnosci/badaczka-z-cyfrowym-zyciem-po-smierci-latwo-przekroczyc-granice-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/badaczka-z-cyfrowym-zyciem-po-smierci-latwo-przekroczyc-granice-0</guid>
+      <description>Po śmierci bliskich pozostają fotografie, nagrania i listy. Rozwój sztucznej inteligencji umożliwia dziś tworzenie ich cyfrowych reprezentacji, z którymi można prowadzić rozmowy. O możliwościach i zagrożeniach związanych z takimi technologiami opowiadała PAP dr Ada Florentyna Pawlak z Uniwersytetu SWPS.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20170313_1BU.jpg.webp?itok=fjwQvTML" alt="Badaczka: z cyfrowym życiem po śmierci łatwo przekroczyć granicę" loading="lazy"/></p>
+<p>Po śmierci bliskich pozostają fotografie, nagrania i listy. Rozwój sztucznej inteligencji umożliwia dziś tworzenie ich cyfrowych reprezentacji, z którymi można prowadzić rozmowy. O możliwościach i zagrożeniach związanych z takimi technologiami opowiadała PAP dr Ada Florentyna Pawlak z Uniwersytetu SWPS.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20170313_1BU.jpg.webp?itok=fjwQvTML" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20170313_1BU.jpg.webp?itok=fjwQvTML" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20170313_1BU.jpg.webp?itok=fjwQvTML"/>
+      <source url="https://www.pap.pl/nauka">PAP.pl - Nauka</source>
+      <pubDate>Sat, 31 Oct 2026 09:21:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ekspert: szczepienie przeciw RSV daje ochronę przez co najmniej trzy sezony infekcyjne</title>
+      <link>https://www.pap.pl/aktualnosci/ekspert-szczepienie-przeciw-rsv-daje-ochrone-przez-co-najmniej-trzy-sezony-infekcyjne</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ekspert-szczepienie-przeciw-rsv-daje-ochrone-przez-co-najmniej-trzy-sezony-infekcyjne</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20211125_0K5.jpg.webp?itok=6fywaQ4t" alt="Ekspert: szczepienie przeciw RSV daje ochronę przez co najmniej trzy sezony infekcyjne" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20211125_0K5.jpg.webp?itok=6fywaQ4t" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20211125_0K5.jpg.webp?itok=6fywaQ4t" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20211125_0K5.jpg.webp?itok=6fywaQ4t"/>
+      <source url="https://www.pap.pl/nauka">PAP.pl - Nauka</source>
+      <pubDate>Sat, 31 Oct 2026 08:23:00 GMT</pubDate>
     </item>
     <item>
       <title>W Małopolsce zlikwidowano gniazdo szerszenia żółtonogiego. Mieściło ponad tysiąc owadów [WIDEO]</title>
       <link>https://www.pap.pl/aktualnosci/naukowiec-zlikwidowane-w-malopolsce-gniazdo-szerszenia-zoltonogiego-miescilo-ok-1-tys</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/naukowiec-zlikwidowane-w-malopolsce-gniazdo-szerszenia-zoltonogiego-miescilo-ok-1-tys</guid>
-      <description>Zlikwidowane w Małopolsce gniazdo inwazyjnego szerszenia żółtonogiego było dość duże, mieściło ok. 1 tys. robotnic oraz kilkadziesiąt samic i samców – powiedział PAP prof. Paweł Migdał z Uniwersytetu Przyrodniczego we Wrocławiu. Dodał, że młode samice zdążyły je opuścić, aby po przezimowaniu założyć nowe gniazda w przyszłym sezonie.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_0B3.jpg.webp?itok=il0gyjVG" alt="W Małopolsce zlikwidowano gniazdo szerszenia żółtonogiego. Mieściło ponad tysiąc owadów [WIDEO]" loading="lazy"/></p>
-<p>Zlikwidowane w Małopolsce gniazdo inwazyjnego szerszenia żółtonogiego było dość duże, mieściło ok. 1 tys. robotnic oraz kilkadziesiąt samic i samców – powiedział PAP prof. Paweł Migdał z Uniwersytetu Przyrodniczego we Wrocławiu. Dodał, że młode samice zdążyły je opuścić, aby po przezimowaniu założyć nowe gniazda w przyszłym sezonie.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_0B3.jpg.webp?itok=il0gyjVG" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_0B3.jpg.webp?itok=il0gyjVG" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_0B3.jpg.webp?itok=il0gyjVG"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_0B3.jpg.webp?itok=PghRv2Qr" alt="W Małopolsce zlikwidowano gniazdo szerszenia żółtonogiego. Mieściło ponad tysiąc owadów [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_0B3.jpg.webp?itok=PghRv2Qr" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_0B3.jpg.webp?itok=PghRv2Qr" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_0B3.jpg.webp?itok=PghRv2Qr"/>
       <source url="https://www.pap.pl/nauka">PAP.pl - Nauka</source>
       <pubDate>Fri, 30 Oct 2026 10:32:22 GMT</pubDate>
     </item>
@@ -356,37 +376,26 @@
       <pubDate>Fri, 23 Oct 2026 06:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Prof. Marek Konarzewski prezesem PAN na drugą kadencję [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/prof-marek-konarzewski-prezesem-pan-na-druga-kadencje</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/prof-marek-konarzewski-prezesem-pan-na-druga-kadencje</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261022_0YX.jpg.webp?itok=Y2jklFu9" alt="Prof. Marek Konarzewski prezesem PAN na drugą kadencję [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261022_0YX.jpg.webp?itok=Y2jklFu9" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261022_0YX.jpg.webp?itok=Y2jklFu9" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261022_0YX.jpg.webp?itok=Y2jklFu9"/>
-      <source url="https://www.pap.pl/nauka">PAP.pl - Nauka</source>
-      <pubDate>Thu, 22 Oct 2026 14:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonda MMX pomyślnie wystrzelona w kierunku księżyców Marsa [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/japonia-sonda-mmx-pomyslnie-wystrzelona-w-kierunku-ksiezycow-marsa</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/japonia-sonda-mmx-pomyslnie-wystrzelona-w-kierunku-ksiezycow-marsa</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261019_1W8.jpg.webp?itok=j_2ASvf_" alt="Sonda MMX pomyślnie wystrzelona w kierunku księżyców Marsa [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261019_1W8.jpg.webp?itok=j_2ASvf_" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261019_1W8.jpg.webp?itok=j_2ASvf_" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261019_1W8.jpg.webp?itok=j_2ASvf_"/>
-      <source url="https://www.pap.pl/nauka">PAP.pl - Nauka</source>
-      <pubDate>Tue, 20 Oct 2026 10:55:32 GMT</pubDate>
+      <title>Czarodziej nadziei. Polacy zrobili ostatni film z udziałem Kaszpirowskiego</title>
+      <link>https://www.pap.pl/aktualnosci/czarodziej-nadziei-polacy-zrobili-ostatni-film-z-udzialem-kaszpirowskiego</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/czarodziej-nadziei-polacy-zrobili-ostatni-film-z-udzialem-kaszpirowskiego</guid>
+      <description>Parę lat zajęło mi samo przekonanie Anatolija Kaszpirowskiego do udziału w moim filmie. A jest to tym bardziej wyjątkowe, że nasza produkcja była ostatnią w jego życiu - powiedział w Studiu PAP Łukasz Konopa, reżyser produkcji o fenomenie jednej z najsłynniejszych postaci w bloku radzieckim, której kult utrzymywał się jeszcze na długo po zmianie systemu.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_19980916_00F_0.jpg.webp?itok=j1JfZO44" alt="Czarodziej nadziei. Polacy zrobili ostatni film z udziałem Kaszpirowskiego" loading="lazy"/></p>
+<p>Parę lat zajęło mi samo przekonanie Anatolija Kaszpirowskiego do udziału w moim filmie. A jest to tym bardziej wyjątkowe, że nasza produkcja była ostatnią w jego życiu - powiedział w Studiu PAP Łukasz Konopa, reżyser produkcji o fenomenie jednej z najsłynniejszych postaci w bloku radzieckim, której kult utrzymywał się jeszcze na długo po zmianie systemu.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_19980916_00F_0.jpg.webp?itok=j1JfZO44" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_19980916_00F_0.jpg.webp?itok=j1JfZO44" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_19980916_00F_0.jpg.webp?itok=j1JfZO44"/>
+      <source url="https://www.pap.pl/studio-pap">PAP.pl - Studio PAP</source>
+      <pubDate>Sat, 31 Oct 2026 08:51:17 GMT</pubDate>
     </item>
     <item>
       <title>Magdalena Sroka: TR Warszawa w nowej siedzibie na Placu Centralnym będzie się rozrastać</title>
       <link>https://www.pap.pl/aktualnosci/magdalena-sroka-tr-warszawa-w-nowej-siedzibie-na-placu-centralnym-bedzie-sie-rozrastac</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/magdalena-sroka-tr-warszawa-w-nowej-siedzibie-na-placu-centralnym-bedzie-sie-rozrastac</guid>
-      <description>Dyrektorka koordynatorka ds. kultury i równości m.st. Warszawy powiedziała w Studiu PAP, że TR w przyszłej siedzibie na Placu Centralnym będzie się rozrastać. To ma być miejsce wszystkich sztuk performatywnych, porównywalne do największych europejskich domów produkcyjnych – zaznaczyła Magdalena Sroka.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image%20%2818%29.png.webp?itok=xQg0MIUE" alt="Magdalena Sroka: TR Warszawa w nowej siedzibie na Placu Centralnym będzie się rozrastać" loading="lazy"/></p>
-<p>Dyrektorka koordynatorka ds. kultury i równości m.st. Warszawy powiedziała w Studiu PAP, że TR w przyszłej siedzibie na Placu Centralnym będzie się rozrastać. To ma być miejsce wszystkich sztuk performatywnych, porównywalne do największych europejskich domów produkcyjnych – zaznaczyła Magdalena Sroka.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image%20%2818%29.png.webp?itok=xQg0MIUE" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image%20%2818%29.png.webp?itok=xQg0MIUE" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image%20%2818%29.png.webp?itok=xQg0MIUE"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image%20%2818%29.png.webp?itok=xpnjjJjx" alt="Magdalena Sroka: TR Warszawa w nowej siedzibie na Placu Centralnym będzie się rozrastać" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image%20%2818%29.png.webp?itok=xpnjjJjx" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image%20%2818%29.png.webp?itok=xpnjjJjx" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image%20%2818%29.png.webp?itok=xpnjjJjx"/>
       <source url="https://www.pap.pl/studio-pap">PAP.pl - Studio PAP</source>
       <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
     </item>
@@ -477,17 +486,6 @@
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202609/pap_20260925_1T6_0.jpg.webp?itok=Hb3S0aeO"/>
       <source url="https://www.pap.pl/studio-pap">PAP.pl - Studio PAP</source>
       <pubDate>Fri, 25 Sep 2026 20:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ewa Konstancja Bułhak: w „Kobiecie stanu wolnego” liczy się człowiek, który walczy o siebie [WIDEO]</title>
-      <link>https://www.pap.pl/aktualnosci/ewa-konstancja-bulhak-w-kobiecie-stanu-wolnego-liczy-sie-czlowiek-ktory-walczy-o-siebie</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ewa-konstancja-bulhak-w-kobiecie-stanu-wolnego-liczy-sie-czlowiek-ktory-walczy-o-siebie</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202609/0577b54f-edc9-4a4f-b440-027d400a98ce.jpg.webp?itok=fEwJE5fb" alt="Ewa Konstancja Bułhak: w „Kobiecie stanu wolnego” liczy się człowiek, który walczy o siebie [WIDEO]" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202609/0577b54f-edc9-4a4f-b440-027d400a98ce.jpg.webp?itok=fEwJE5fb" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202609/0577b54f-edc9-4a4f-b440-027d400a98ce.jpg.webp?itok=fEwJE5fb" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202609/0577b54f-edc9-4a4f-b440-027d400a98ce.jpg.webp?itok=fEwJE5fb"/>
-      <source url="https://www.pap.pl/studio-pap">PAP.pl - Studio PAP</source>
-      <pubDate>Wed, 23 Sep 2026 18:12:27 GMT</pubDate>
     </item>
     <item>
       <title>Ukraińskie Centrum Przeciwdziałania Dezinformacji: obrażające Polaków wpisy radnych są fałszywe</title>
@@ -602,15 +600,26 @@
       <pubDate>Fri, 23 Oct 2026 15:13:07 GMT</pubDate>
     </item>
     <item>
+      <title>W weekend i poniedziałek maksymalne ceny benzyny i diesla niższe niż w piątek</title>
+      <link>https://www.pap.pl/aktualnosci/w-weekend-i-poniedzialek-maksymalne-ceny-benzyny-i-diesla-nizsze-niz-w-piatek-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/w-weekend-i-poniedzialek-maksymalne-ceny-benzyny-i-diesla-nizsze-niz-w-piatek-0</guid>
+      <description>W sobotę, niedzielę i poniedziałek cena litra benzyny 95 nie może przekroczyć 6,48 zł, benzyny 98 – 7,32 zł, a oleju napędowego - 8,15 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw są niższe niż w piątek.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260901_12Z_1.jpg.webp?itok=Hu-fMv7T" alt="W weekend i poniedziałek maksymalne ceny benzyny i diesla niższe niż w piątek" loading="lazy"/></p>
+<p>W sobotę, niedzielę i poniedziałek cena litra benzyny 95 nie może przekroczyć 6,48 zł, benzyny 98 – 7,32 zł, a oleju napędowego - 8,15 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw są niższe niż w piątek.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260901_12Z_1.jpg.webp?itok=Hu-fMv7T" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260901_12Z_1.jpg.webp?itok=Hu-fMv7T" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260901_12Z_1.jpg.webp?itok=Hu-fMv7T"/>
+      <source url="https://www.pap.pl/gospodarka">PAP.pl - Gospodarka</source>
+      <pubDate>Sat, 31 Oct 2026 09:04:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Wiceszef MON: historyczny budżet obronny szansą na rozwój polskiego przemysłu zbrojeniowego</title>
       <link>https://www.pap.pl/aktualnosci/wiceszef-mon-historyczny-budzet-obronny-szansa-na-rozwoj-polskiego-przemyslu-0</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/wiceszef-mon-historyczny-budzet-obronny-szansa-na-rozwoj-polskiego-przemyslu-0</guid>
-      <description>Polska stoi przed wyjątkową szansą wykorzystania historycznego budżetu na obronność do rozwoju własnego przemysłu zbrojeniowego i technologii - ocenił w piątek wiceminister obrony narodowej Cezary Tomczyk. Podkreślił, że środki te powinny być wydawane w Polsce, jeśli tylko jest to możliwe.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_099.jpg.webp?itok=cvZ6BFNk" alt="Wiceszef MON: historyczny budżet obronny szansą na rozwój polskiego przemysłu zbrojeniowego" loading="lazy"/></p>
-<p>Polska stoi przed wyjątkową szansą wykorzystania historycznego budżetu na obronność do rozwoju własnego przemysłu zbrojeniowego i technologii - ocenił w piątek wiceminister obrony narodowej Cezary Tomczyk. Podkreślił, że środki te powinny być wydawane w Polsce, jeśli tylko jest to możliwe.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_099.jpg.webp?itok=cvZ6BFNk" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_099.jpg.webp?itok=cvZ6BFNk" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20261030_099.jpg.webp?itok=cvZ6BFNk"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_099.jpg.webp?itok=1Y1PkfHC" alt="Wiceszef MON: historyczny budżet obronny szansą na rozwój polskiego przemysłu zbrojeniowego" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_099.jpg.webp?itok=1Y1PkfHC" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_099.jpg.webp?itok=1Y1PkfHC" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261030_099.jpg.webp?itok=1Y1PkfHC"/>
       <source url="https://www.pap.pl/gospodarka">PAP.pl - Gospodarka</source>
       <pubDate>Fri, 30 Oct 2026 12:22:00 GMT</pubDate>
     </item>
@@ -703,103 +712,127 @@
       <pubDate>Thu, 29 Oct 2026 11:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>Eksperci: naprawę uszkodzonego nagrobka może pokryć polisa - własna lub odpowiedzialnego podmiotu</title>
-      <link>https://www.pap.pl/aktualnosci/eksperci-naprawe-uszkodzonego-nagrobka-moze-pokryc-polisa-wlasna-lub-odpowiedzialnego</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/eksperci-naprawe-uszkodzonego-nagrobka-moze-pokryc-polisa-wlasna-lub-odpowiedzialnego</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0MS.jpg.webp?itok=Rfr3qP--" alt="Eksperci: naprawę uszkodzonego nagrobka może pokryć polisa - własna lub odpowiedzialnego podmiotu" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0MS.jpg.webp?itok=Rfr3qP--" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0MS.jpg.webp?itok=Rfr3qP--" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261027_0MS.jpg.webp?itok=Rfr3qP--"/>
-      <source url="https://www.pap.pl/gospodarka">PAP.pl - Gospodarka</source>
-      <pubDate>Thu, 29 Oct 2026 06:55:01 GMT</pubDate>
+      <title>Modlitwa w intencji Polski. Jest apel z Jasnej Góry</title>
+      <link>https://www.pap.pl/aktualnosci/jasna-gora-paulini-wzywaja-polakow-do-wspolnej-modlitwy-za-ojczyzne</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/jasna-gora-paulini-wzywaja-polakow-do-wspolnej-modlitwy-za-ojczyzne</guid>
+      <description>Klasztor paulinów na Jasnej Górze przypomniał w sobotę, że w duchowej stolicy Polski każdego dnia zanoszona jest nieprzerwana modlitwa w intencji naszej Ojczyzny - ale „w dniu dzisiejszym to szczególne błaganie wybrzmi ze spotęgowaną siłą w sercu Sanktuarium”.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20100710_0Z8.jpg.webp?itok=jz6TolYh" alt="Modlitwa w intencji Polski. Jest apel z Jasnej Góry" loading="lazy"/></p>
+<p>Klasztor paulinów na Jasnej Górze przypomniał w sobotę, że w duchowej stolicy Polski każdego dnia zanoszona jest nieprzerwana modlitwa w intencji naszej Ojczyzny - ale „w dniu dzisiejszym to szczególne błaganie wybrzmi ze spotęgowaną siłą w sercu Sanktuarium”.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20100710_0Z8.jpg.webp?itok=jz6TolYh" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20100710_0Z8.jpg.webp?itok=jz6TolYh" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20100710_0Z8.jpg.webp?itok=jz6TolYh"/>
+      <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
+      <pubDate>Sat, 31 Oct 2026 10:27:29 GMT</pubDate>
     </item>
     <item>
-      <title>Politolog: wydarzenia wokół TK to zwarcie szeregów przed kampanią wyborczą</title>
-      <link>https://www.pap.pl/aktualnosci/politolog-wydarzenia-wokol-tk-zwarcie-szeregow-przed-kampania-wyborcza</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/politolog-wydarzenia-wokol-tk-zwarcie-szeregow-przed-kampania-wyborcza</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a31015%20%281%29.jpg.webp?itok=Hlq-TwDX" alt="Politolog: wydarzenia wokół TK to zwarcie szeregów przed kampanią wyborczą" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a31015%20%281%29.jpg.webp?itok=Hlq-TwDX" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a31015%20%281%29.jpg.webp?itok=Hlq-TwDX" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/26a31015%20%281%29.jpg.webp?itok=Hlq-TwDX"/>
+      <title>Ambasador USA Rose: leży nam na sercu stabilność i bezpieczeństwo naszego sojusznika i przyjaciela</title>
+      <link>https://www.pap.pl/aktualnosci/ambasador-usa-rose-lezy-nam-na-sercu-stabilnosc-i-bezpieczenstwo-naszego-sojusznika-i</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ambasador-usa-rose-lezy-nam-na-sercu-stabilnosc-i-bezpieczenstwo-naszego-sojusznika-i</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260428_114%20%281%29.jpg.webp?itok=Nd7bP6A4" alt="Ambasador USA Rose: leży nam na sercu stabilność i bezpieczeństwo naszego sojusznika i przyjaciela" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260428_114%20%281%29.jpg.webp?itok=Nd7bP6A4" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260428_114%20%281%29.jpg.webp?itok=Nd7bP6A4" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260428_114%20%281%29.jpg.webp?itok=Nd7bP6A4"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Sat, 31 Oct 2026 01:17:53 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 08:24:29 GMT</pubDate>
     </item>
     <item>
-      <title>Abp Galbas w związku z przesileniem w TK apeluje o modlitwę w intencji ojczyzny</title>
-      <link>https://www.pap.pl/aktualnosci/abp-galbas-w-zwiazku-z-przesileniem-w-tk-apeluje-o-modlitwe-w-intencji-ojczyzny</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/abp-galbas-w-zwiazku-z-przesileniem-w-tk-apeluje-o-modlitwe-w-intencji-ojczyzny</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_0NH%20%281%29.jpg.webp?itok=gZVplhPV" alt="Abp Galbas w związku z przesileniem w TK apeluje o modlitwę w intencji ojczyzny" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_0NH%20%281%29.jpg.webp?itok=gZVplhPV" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_0NH%20%281%29.jpg.webp?itok=gZVplhPV" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261008_0NH%20%281%29.jpg.webp?itok=gZVplhPV"/>
+      <title>Cztery królewskie rezydencje będą w listopadzie dostępne za darmo [WIDEO]</title>
+      <link>https://www.pap.pl/aktualnosci/cztery-krolewskie-rezydencje-beda-w-listopadzie-dostepne-za-darmo-wideo</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/cztery-krolewskie-rezydencje-beda-w-listopadzie-dostepne-za-darmo-wideo</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261028_1JB.jpg.webp?itok=1CkX6RBS" alt="Cztery królewskie rezydencje będą w listopadzie dostępne za darmo [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261028_1JB.jpg.webp?itok=1CkX6RBS" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261028_1JB.jpg.webp?itok=1CkX6RBS" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261028_1JB.jpg.webp?itok=1CkX6RBS"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Fri, 30 Oct 2026 22:27:52 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 08:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Korwin-Piotrowska gotowa spotkać się z Nawrockim w Pałacu Prezydenckim</title>
-      <link>https://www.pap.pl/aktualnosci/korwin-piotrowska-gotowa-spotkac-sie-z-nawrockim-w-palacu-prezydenckim</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/korwin-piotrowska-gotowa-spotkac-sie-z-nawrockim-w-palacu-prezydenckim</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260728_0TH%20%281%29.jpg.webp?itok=HmV9lDFp" alt="Korwin-Piotrowska gotowa spotkać się z Nawrockim w Pałacu Prezydenckim" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260728_0TH%20%281%29.jpg.webp?itok=HmV9lDFp" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260728_0TH%20%281%29.jpg.webp?itok=HmV9lDFp" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260728_0TH%20%281%29.jpg.webp?itok=HmV9lDFp"/>
+      <title>Leśnicy odwiedzają zapomniane groby w lesie [WIDEO]</title>
+      <link>https://www.pap.pl/aktualnosci/lesnicy-odwiedzaja-zapomniane-groby-w-lesie-wideo</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/lesnicy-odwiedzaja-zapomniane-groby-w-lesie-wideo</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241028_0SU.jpg.webp?itok=Ad_wDwbR" alt="Leśnicy odwiedzają zapomniane groby w lesie [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241028_0SU.jpg.webp?itok=Ad_wDwbR" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241028_0SU.jpg.webp?itok=Ad_wDwbR" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20241028_0SU.jpg.webp?itok=Ad_wDwbR"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Fri, 30 Oct 2026 21:38:41 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 06:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>Anna Korwin-Piotrowska: w siedzibie Trybunału Konstytucyjnego jest siedmiu sędziów, licząc mnie</title>
-      <link>https://www.pap.pl/aktualnosci/anna-korwin-piotrowska-w-siedzibie-trybunalu-konstytucyjnego-jest-siedmiu-sedziow</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/anna-korwin-piotrowska-w-siedzibie-trybunalu-konstytucyjnego-jest-siedmiu-sedziow</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260409_0L6.jpg.webp?itok=0Q6DBrTJ" alt="Anna Korwin-Piotrowska: w siedzibie Trybunału Konstytucyjnego jest siedmiu sędziów, licząc mnie" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260409_0L6.jpg.webp?itok=0Q6DBrTJ" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260409_0L6.jpg.webp?itok=0Q6DBrTJ" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260409_0L6.jpg.webp?itok=0Q6DBrTJ"/>
+      <title>Alternatywa dla Halloween. Parafie organizują bale i korowody świętych [WIDEO]</title>
+      <link>https://www.pap.pl/aktualnosci/w-dniach-poprzedzajacych-wszystkich-swietych-parafie-organizuja-bale-i-korowody-0</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/w-dniach-poprzedzajacych-wszystkich-swietych-parafie-organizuja-bale-i-korowody-0</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20231031_1YJ.jpg.webp?itok=qcAOM4dT" alt="Alternatywa dla Halloween. Parafie organizują bale i korowody świętych [WIDEO]" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20231031_1YJ.jpg.webp?itok=qcAOM4dT" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20231031_1YJ.jpg.webp?itok=qcAOM4dT" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20231031_1YJ.jpg.webp?itok=qcAOM4dT"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Fri, 30 Oct 2026 18:50:31 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 06:16:00 GMT</pubDate>
     </item>
     <item>
-      <title>Żurek: przekazałem do Trybunału Konstytucyjnego 5 wniosków o uchylenie immunitetu</title>
-      <link>https://www.pap.pl/aktualnosci/zurek-przekazalem-do-trybunalu-konstytucyjnego-5-wnioskow-o-uchylenie-immunitetu</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/zurek-przekazalem-do-trybunalu-konstytucyjnego-5-wnioskow-o-uchylenie-immunitetu</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261016_0OC.jpg.webp?itok=R-gV_Hsc" alt="Żurek: przekazałem do Trybunału Konstytucyjnego 5 wniosków o uchylenie immunitetu" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261016_0OC.jpg.webp?itok=R-gV_Hsc" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261016_0OC.jpg.webp?itok=R-gV_Hsc" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261016_0OC.jpg.webp?itok=R-gV_Hsc"/>
+      <title>Szef MS: zaniepokoiło mnie zachowanie prezydenta w TK; mam nadzieję, że prokuratura podejmie działania</title>
+      <link>https://www.pap.pl/aktualnosci/szef-ms-zaniepokoilo-mnie-zachowanie-prezydenta-w-tk-mam-nadzieje-ze-prokuratura</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/szef-ms-zaniepokoilo-mnie-zachowanie-prezydenta-w-tk-mam-nadzieje-ze-prokuratura</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260902_1BB.jpg.webp?itok=LfV-UUA1" alt="Szef MS: zaniepokoiło mnie zachowanie prezydenta w TK; mam nadzieję, że prokuratura podejmie działania" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260902_1BB.jpg.webp?itok=LfV-UUA1" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260902_1BB.jpg.webp?itok=LfV-UUA1" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260902_1BB.jpg.webp?itok=LfV-UUA1"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Fri, 30 Oct 2026 18:03:50 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 04:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>Prezydent wrócił do kraju w związku z sytuacją w TK. Premier: przywracanie rządów prawa jest naszym obowiązkiem</title>
-      <link>https://www.pap.pl/aktualnosci/prezydent-wrocil-do-kraju-w-zwiazku-z-sytuacja-w-tk-premier-przywracanie-rzadow-prawa</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/prezydent-wrocil-do-kraju-w-zwiazku-z-sytuacja-w-tk-premier-przywracanie-rzadow-prawa</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Projekt%20bez%20nazwy%20%285%29.png.webp?itok=JWH9X8w1" alt="Prezydent wrócił do kraju w związku z sytuacją w TK. Premier: przywracanie rządów prawa jest naszym obowiązkiem" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Projekt%20bez%20nazwy%20%285%29.png.webp?itok=JWH9X8w1" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Projekt%20bez%20nazwy%20%285%29.png.webp?itok=JWH9X8w1" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/Projekt%20bez%20nazwy%20%285%29.png.webp?itok=JWH9X8w1"/>
+      <title>Prezydent zwołuje pilne konsultacje z udziałem sił parlamentarnych w związku z sytuacją wokół TK</title>
+      <link>https://www.pap.pl/aktualnosci/prezydent-zwoluje-pilne-konsultacje-z-udzialem-sil-parlamentarnych-w-zwiazku-z-sytuacja</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/prezydent-zwoluje-pilne-konsultacje-z-udzialem-sil-parlamentarnych-w-zwiazku-z-sytuacja</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719592.jpg.webp?itok=J2in7HFi" alt="Prezydent zwołuje pilne konsultacje z udziałem sił parlamentarnych w związku z sytuacją wokół TK" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719592.jpg.webp?itok=J2in7HFi" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719592.jpg.webp?itok=J2in7HFi" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image719592.jpg.webp?itok=J2in7HFi"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Fri, 30 Oct 2026 18:00:01 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 04:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wszystkich Świętych w Łodzi. Bezpłatna komunikacja i specjalne linie na cmentarze</title>
-      <link>https://www.pap.pl/aktualnosci/wszystkich-swietych-w-lodzi-bezplatna-komunikacja-i-specjalne-linie-na-cmentarze</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/wszystkich-swietych-w-lodzi-bezplatna-komunikacja-i-specjalne-linie-na-cmentarze</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20221031_0LZ.jpg.webp?itok=3jNKZIMF" alt="Wszystkich Świętych w Łodzi. Bezpłatna komunikacja i specjalne linie na cmentarze" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20221031_0LZ.jpg.webp?itok=3jNKZIMF" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20221031_0LZ.jpg.webp?itok=3jNKZIMF" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20221031_0LZ.jpg.webp?itok=3jNKZIMF"/>
+      <title>Waldemar Żurek: prokurator jest w siedzibie Trybunału Konstytucyjnego</title>
+      <link>https://www.pap.pl/aktualnosci/waldemar-zurek-prokurator-jest-w-siedzibie-trybunalu-konstytucyjnego</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/waldemar-zurek-prokurator-jest-w-siedzibie-trybunalu-konstytucyjnego</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5" alt="Waldemar Żurek: prokurator jest w siedzibie Trybunału Konstytucyjnego" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261006_17C%20%281%29.jpg.webp?itok=OQhkX9v5"/>
       <source url="https://www.pap.pl/kraj">PAP.pl - Kraj</source>
-      <pubDate>Fri, 30 Oct 2026 17:24:50 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 02:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aleś Bialacki: przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją [WYWIAD]</title>
+      <link>https://www.pap.pl/aktualnosci/ales-bialacki-przyszlosc-bialorusi-zalezy-od-tego-jak-skonczy-sie-wojna-ukrainy-z-rosja</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ales-bialacki-przyszlosc-bialorusi-zalezy-od-tego-jak-skonczy-sie-wojna-ukrainy-z-rosja</guid>
+      <description>Przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją - mówił PAP laureat Pokojowej Nagrody Nobla w 2022 r. Aleś Bialacki. Zdaniem białoruskiego obrońcy praw człowieka państwa regionu powinny zwiększyć pomoc dla Kijowa, bo Ukraińcy bronią też Polaków, Łotyszy, Estończyków czy Litwinów.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260623_0EO.jpg.webp?itok=FlK8D6Ef" alt="Aleś Bialacki: przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją [WYWIAD]" loading="lazy"/></p>
+<p>Przyszłość Białorusi zależy od tego, jak skończy się wojna Ukrainy z Rosją - mówił PAP laureat Pokojowej Nagrody Nobla w 2022 r. Aleś Bialacki. Zdaniem białoruskiego obrońcy praw człowieka państwa regionu powinny zwiększyć pomoc dla Kijowa, bo Ukraińcy bronią też Polaków, Łotyszy, Estończyków czy Litwinów.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260623_0EO.jpg.webp?itok=FlK8D6Ef" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260623_0EO.jpg.webp?itok=FlK8D6Ef" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/pap_20260623_0EO.jpg.webp?itok=FlK8D6Ef"/>
+      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
+      <pubDate>Sat, 31 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patrioty z USA dla Ukrainy dopiero za kilka lat. Zełenski: potrzeby kraju są pilne</title>
+      <link>https://www.pap.pl/aktualnosci/patrioty-z-usa-dla-ukrainy-dopiero-za-kilka-lat-zelenski-potrzeby-kraju-sa-pilne</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/patrioty-z-usa-dla-ukrainy-dopiero-za-kilka-lat-zelenski-potrzeby-kraju-sa-pilne</guid>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/ukra%20rosja%20atak.jpg.webp?itok=DEKKtJfD" alt="Patrioty z USA dla Ukrainy dopiero za kilka lat. Zełenski: potrzeby kraju są pilne" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/ukra%20rosja%20atak.jpg.webp?itok=DEKKtJfD" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/ukra%20rosja%20atak.jpg.webp?itok=DEKKtJfD" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/ukra%20rosja%20atak.jpg.webp?itok=DEKKtJfD"/>
+      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
+      <pubDate>Sat, 31 Oct 2026 08:54:20 GMT</pubDate>
     </item>
     <item>
       <title>USA zatwierdziły sprzedaż Ukrainie 500 rakiet PAC-3 do systemów Patriot</title>
       <link>https://www.pap.pl/aktualnosci/usa-zatwierdzily-sprzedaz-ukrainie-500-rakiet-pac-3-do-systemow-patriot</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/usa-zatwierdzily-sprzedaz-ukrainie-500-rakiet-pac-3-do-systemow-patriot</guid>
-      <description>Departament Stanu USA wydał decyzję zatwierdzającą potencjalną sprzedaż Ukrainie 500 pocisków rakietowych PAC-3 MSE do systemu Patriot. Szacowany całkowity koszt wynosi do 2,1 mld dolarów i zostanie sfinansowany przez państwa europejskie i UE.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image720985.jpg.webp?itok=FMvEomY9" alt="USA zatwierdziły sprzedaż Ukrainie 500 rakiet PAC-3 do systemów Patriot" loading="lazy"/></p>
-<p>Departament Stanu USA wydał decyzję zatwierdzającą potencjalną sprzedaż Ukrainie 500 pocisków rakietowych PAC-3 MSE do systemu Patriot. Szacowany całkowity koszt wynosi do 2,1 mld dolarów i zostanie sfinansowany przez państwa europejskie i UE.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image720985.jpg.webp?itok=FMvEomY9" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image720985.jpg.webp?itok=FMvEomY9" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202610/image720985.jpg.webp?itok=FMvEomY9"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image720985.jpg.webp?itok=scDAH5kO" alt="USA zatwierdziły sprzedaż Ukrainie 500 rakiet PAC-3 do systemów Patriot" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image720985.jpg.webp?itok=scDAH5kO" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image720985.jpg.webp?itok=scDAH5kO" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/image720985.jpg.webp?itok=scDAH5kO"/>
       <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
       <pubDate>Fri, 30 Oct 2026 19:22:21 GMT</pubDate>
     </item>
@@ -868,39 +901,6 @@
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260704_01U.jpg.webp?itok=VNmUxkmr"/>
       <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
       <pubDate>Fri, 30 Oct 2026 13:07:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ewakuacja mieszkańców Ołeszek. Ukraińska delegacja przybyła na miejsce</title>
-      <link>https://www.pap.pl/aktualnosci/ewakuacja-mieszkancow-oleszek-ukrainska-delegacja-przybyla-na-miejsce</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/ewakuacja-mieszkancow-oleszek-ukrainska-delegacja-przybyla-na-miejsce</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20240513_23F.jpg.webp?itok=XYfaKBN-" alt="Ewakuacja mieszkańców Ołeszek. Ukraińska delegacja przybyła na miejsce" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20240513_23F.jpg.webp?itok=XYfaKBN-" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20240513_23F.jpg.webp?itok=XYfaKBN-" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20240513_23F.jpg.webp?itok=XYfaKBN-"/>
-      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
-      <pubDate>Fri, 30 Oct 2026 10:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eksplozja w fabryce amunicji na południu Hiszpanii. Są wstępne informacje służb</title>
-      <link>https://www.pap.pl/aktualnosci/eksplozja-w-fabryce-amunicji-na-poludniu-hiszpanii-sa-wstepne-informacje-sluzb</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/eksplozja-w-fabryce-amunicji-na-poludniu-hiszpanii-sa-wstepne-informacje-sluzb</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260119_1ED.jpg.webp?itok=o4YcTNeN" alt="Eksplozja w fabryce amunicji na południu Hiszpanii. Są wstępne informacje służb" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260119_1ED.jpg.webp?itok=o4YcTNeN" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260119_1ED.jpg.webp?itok=o4YcTNeN" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260119_1ED.jpg.webp?itok=o4YcTNeN"/>
-      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
-      <pubDate>Fri, 30 Oct 2026 10:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amerykańska ambasada uznała zwycięstwo Luli za jednoznaczne, wbrew stanowisku Trumpa</title>
-      <link>https://www.pap.pl/aktualnosci/amerykanska-ambasada-uznala-zwyciestwo-luli-za-jednoznaczne-wbrew-stanowisku-trumpa</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/amerykanska-ambasada-uznala-zwyciestwo-luli-za-jednoznaczne-wbrew-stanowisku-trumpa</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261026_04F.jpg.webp?itok=kHfaLMXy" alt="Amerykańska ambasada uznała zwycięstwo Luli za jednoznaczne, wbrew stanowisku Trumpa" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261026_04F.jpg.webp?itok=kHfaLMXy" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261026_04F.jpg.webp?itok=kHfaLMXy" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20261026_04F.jpg.webp?itok=kHfaLMXy"/>
-      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
-      <pubDate>Fri, 30 Oct 2026 09:06:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
