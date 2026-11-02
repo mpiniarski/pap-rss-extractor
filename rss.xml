@@ -5,7 +5,7 @@
     <link>https://www.pap.pl/</link>
     <description>Polaczony feed RSS ze wszystkich skonfigurowanych dzialow PAP.pl</description>
     <language>pl</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:52:39 GMT</lastBuildDate>
     <item>
       <title>Pieniądze szczęścia nie dają, ale napisanie o nich piosenki się opłaciło. 50 lat „Money, Money, Money”</title>
       <link>https://www.pap.pl/aktualnosci/pieniadze-szczescia-nie-daja-ale-napisanie-o-nich-piosenki-sie-oplacilo-50-lat-money</link>
@@ -791,15 +791,26 @@
       <pubDate>Sun, 01 Nov 2026 11:41:23 GMT</pubDate>
     </item>
     <item>
+      <title>Samolot z dziewięcioma osobami na pokładzie rozbił się na Florydzie</title>
+      <link>https://www.pap.pl/aktualnosci/samolot-z-dziewiecioma-osobami-na-pokladzie-rozbil-sie-na-florydzie</link>
+      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/samolot-z-dziewiecioma-osobami-na-pokladzie-rozbil-sie-na-florydzie</guid>
+      <description>Odrzutowiec biznesowy Learjet 60 z dziewięcioma osobami na pokładzie rozbił się w niedzielę w hrabstwie Palm Beach na Florydzie – poinformował portal telewizji CNN.</description>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20100730_0XP.jpg.webp?itok=z4cH1Xjx" alt="Samolot z dziewięcioma osobami na pokładzie rozbił się na Florydzie" loading="lazy"/></p>
+<p>Odrzutowiec biznesowy Learjet 60 z dziewięcioma osobami na pokładzie rozbił się w niedzielę w hrabstwie Palm Beach na Florydzie – poinformował portal telewizji CNN.</p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20100730_0XP.jpg.webp?itok=z4cH1Xjx" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20100730_0XP.jpg.webp?itok=z4cH1Xjx" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20100730_0XP.jpg.webp?itok=z4cH1Xjx"/>
+      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
+      <pubDate>Sun, 01 Nov 2026 21:24:46 GMT</pubDate>
+    </item>
+    <item>
       <title>Wybory w Bułgarii. Są wyniki exit poll</title>
       <link>https://www.pap.pl/aktualnosci/wybory-w-bulgarii-sa-wyniki-exit-poll</link>
       <guid isPermaLink="true">https://www.pap.pl/aktualnosci/wybory-w-bulgarii-sa-wyniki-exit-poll</guid>
-      <description>Iliana Jotowa wygrała II turę wyborów prezydenckich w Bułgarii, które odbyły się w niedzielę – wynika z sondaży exit poll, przytoczonych przez agencję BTA.</description>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20261101_0GG.jpg.webp?itok=L91KfgAJ" alt="Wybory w Bułgarii. Są wyniki exit poll" loading="lazy"/></p>
-<p>Iliana Jotowa wygrała II turę wyborów prezydenckich w Bułgarii, które odbyły się w niedzielę – wynika z sondaży exit poll, przytoczonych przez agencję BTA.</p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20261101_0GG.jpg.webp?itok=L91KfgAJ" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20261101_0GG.jpg.webp?itok=L91KfgAJ" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/srednie_zdjecie_675x380/public/202611/pap_20261101_0GG.jpg.webp?itok=L91KfgAJ"/>
+      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202611/pap_20261101_0GG.jpg.webp?itok=VzUCOJ_8" alt="Wybory w Bułgarii. Są wyniki exit poll" loading="lazy"/></p>]]></content:encoded>
+      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202611/pap_20261101_0GG.jpg.webp?itok=VzUCOJ_8" type="image/webp" length="0"/>
+      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202611/pap_20261101_0GG.jpg.webp?itok=VzUCOJ_8" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202611/pap_20261101_0GG.jpg.webp?itok=VzUCOJ_8"/>
       <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
       <pubDate>Sun, 01 Nov 2026 18:46:00 GMT</pubDate>
     </item>
@@ -890,17 +901,6 @@
       <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20260817_0CD.jpg.webp?itok=WeiULlhh"/>
       <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
       <pubDate>Sat, 31 Oct 2026 19:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erdogan rozmawiał z Zełenskim. Chodzi o ataki na statki handlowe na Morzu Czarnym</title>
-      <link>https://www.pap.pl/aktualnosci/erdogan-rozmawial-z-zelenskim-chodzi-o-ataki-na-statki-handlowe-na-morzu-czarnym</link>
-      <guid isPermaLink="true">https://www.pap.pl/aktualnosci/erdogan-rozmawial-z-zelenskim-chodzi-o-ataki-na-statki-handlowe-na-morzu-czarnym</guid>
-      <content:encoded><![CDATA[<p><img src="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250506_2LX.jpg.webp?itok=GCF_Nig0" alt="Erdogan rozmawiał z Zełenskim. Chodzi o ataki na statki handlowe na Morzu Czarnym" loading="lazy"/></p>]]></content:encoded>
-      <enclosure url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250506_2LX.jpg.webp?itok=GCF_Nig0" type="image/webp" length="0"/>
-      <media:content url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250506_2LX.jpg.webp?itok=GCF_Nig0" medium="image" type="image/webp"/>
-      <media:thumbnail url="https://www.pap.pl/sites/default/files/styles/male_zdjecie_323x182/public/202610/pap_20250506_2LX.jpg.webp?itok=GCF_Nig0"/>
-      <source url="https://www.pap.pl/swiat">PAP.pl - Swiat</source>
-      <pubDate>Sat, 31 Oct 2026 18:21:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
